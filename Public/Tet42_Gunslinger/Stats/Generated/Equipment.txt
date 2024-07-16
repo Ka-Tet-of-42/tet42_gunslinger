@@ -1,0 +1,235 @@
+new equipment "EQP_CC_Tet42_Gunslinger"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "GS_Navy_Revolver_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "GS_Winchester1894_Scaling"
+add equipmentgroup
+add equipment entry "GS_Navy_Revolver_Scaling"
+add equipmentgroup
+add equipment entry "GS_Navy_Revolver_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new equipment "EQP_CC_Tet42_DarkGunslinger"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "Dirge_Corpsemaker_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "Dirge_Corpsemaker_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new equipment "EQP_CC_Tet42_Gunbreaker"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "Gunbreaker_1h_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_ScaleMail_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new equipment "EQP_CC_Tet42_Gunjitsu"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "GJ_FingerGun_Scaling"
+add equipmentgroup
+add equipment entry "ARM_Monk"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "GJ_FingerGun_Scaling"
+add equipmentgroup
+add equipment entry "ARM_Shoes_Monk"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new equipment "EQP_CC_Tet42_Gunzerker"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "GZ_Gunblade_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Shoes_Barbarian"
+add equipmentgroup
+add equipment entry "ARM_Barbarian"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new equipment "EQP_CC_Tet42_GunMage"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "GunMage_DrakefireBlunderbuss_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Shoes"
+add equipmentgroup
+add equipment entry "ARM_Robe_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "GMGS_Shotgun_Scaling"
+add equipmentgroup
+add equipment entry "GunMage_Musket_Scaling"
+add equipmentgroup
+add equipment entry "GunMage_Navy_Revolver_Scaling"
+add equipmentgroup
+add equipment entry "GunMage_Navy_Revolver_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new equipment "EQP_CC_Tet42_GunSaint"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "GunSaint_DrakefireBlunderbuss_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_ChainShirt_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "GMGS_Shotgun_Scaling"
+add equipmentgroup
+add equipment entry "GunSaint_Musket_Scaling"
+add equipmentgroup
+add equipment entry "GunSaint_Navy_Revolver_Scaling"
+add equipmentgroup
+add equipment entry "GunSaint_Navy_Revolver_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new equipment "EQP_CC_Tet42_Deadeye"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "Sniper_Scaling"
+add equipmentgroup
+add equipment entry "BladeRevolver_Scaling"
+add equipmentgroup
+add equipment entry "OBJ_Kit_ThievesTools"
+add equipmentgroup
+add equipment entry "OBJ_GreaseBottle"
+add equipmentgroup
+add equipment entry "OBJ_GreaseBottle"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body_Rogue"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"

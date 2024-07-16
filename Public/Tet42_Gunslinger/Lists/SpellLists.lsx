@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Class Level 1" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="d665817b-1c53-46bd-a814-fde8a1cb3817" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Class Level 3" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="1d2f1689-0c84-4311-a8bc-60ce15768f27" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Class Level 6" />
+          <attribute id="Spells" type="LSString" value="Shout_GunslingerFocus" />
+          <attribute id="UUID" type="guid" value="960dfbf2-83b4-4c2e-867c-9f7dfdb6194c" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Class Level 7" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="e3631967-6f86-401e-9da0-008c0653f586" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 1" />
+          <attribute id="Spells" type="LSString" value="Target_AimWithMyEye;Shout_SummonGSChest" />
+          <attribute id="UUID" type="guid" value="221ad8c3-c1d7-44fa-8b5a-977c0f1c8491" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 2" />
+          <attribute id="Spells" type="LSString" value="Target_Smite_Gunslinger_Unlock;Target_Smite_Gunslinger_Critical_Unlock;Shout_GS_ActionSurge" />
+          <attribute id="UUID" type="guid" value="02636dd5-4a67-4ba1-b944-844091f75242" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 3" />
+          <attribute id="Spells" type="LSString" value="Target_ShootWithMyMind;Gunslinger_Protection_Unlock;Projectile_GS_Trickshot;Shout_InspiringPalaver" />
+          <attribute id="UUID" type="guid" value="02b0e949-3073-46aa-90e2-f3b17647baba" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 4" />
+          <attribute id="Spells" type="LSString" value="Gunslinger_Countershot_Unlock" />
+          <attribute id="UUID" type="guid" value="510f9abc-f0fc-4303-aa1f-a31ed83493b7" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 5" />
+          <attribute id="Spells" type="LSString" value="Target_GS_ElementalWeapon;Target_KillWithMyHeart;Gunslinger_AOO_Unlock" />
+          <attribute id="UUID" type="guid" value="f0daff9d-76fe-424d-8f2e-a13927e3b0f5" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 7" />
+          <attribute id="Spells" type="LSString" value="Shout_AuraOfGunslinger;Zone_GS_HV_Round" />
+          <attribute id="UUID" type="guid" value="6a347235-63e3-4c6b-80f5-157d3f36e85f" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunslinger Level 9" />
+          <attribute id="Spells" type="LSString" value="Gunslinger_Haste" />
+          <attribute id="UUID" type="guid" value="fdf8575e-ef3f-46d3-b416-b9710a636dd4" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 1" />
+          <attribute id="Spells" type="LSString" value="Shout_SummonDirgeChest" />
+          <attribute id="UUID" type="guid" value="f915e3a2-1792-4956-a3b0-3fdc5faa913c" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 2" />
+          <attribute id="Spells" type="LSString" value="Shout_FalseLife;Dirge_MagicMissile_Container" />
+          <attribute id="UUID" type="guid" value="77b46e2f-8b80-4eac-9d57-9726ebf8fe4d" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 3" />
+          <attribute id="Spells" type="LSString" value="Target_Swarm_Rat;Gunslinger_Protection_Unlock" />
+          <attribute id="UUID" type="guid" value="73f90440-3322-4847-8c5a-f739899fff95" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 4" />
+          <attribute id="Spells" type="LSString" value="Gunslinger_Countershot_Unlock;Target_ValkranaCorpseGrenade;Projectile_BadMoon" />
+          <attribute id="UUID" type="guid" value="5e3e1291-8a2e-4fff-b829-fe3d4e8835e2" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 5" />
+          <attribute id="Spells" type="LSString" value="Target_AnimateDead;Target_ValkranaImpartUndeath;Dirge_SpiritGuardians_Container" />
+          <attribute id="UUID" type="guid" value="6f1cf77d-6613-4a24-bc55-7787ac2043dc" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 6" />
+          <attribute id="Spells" type="LSString" value="Target_ValkranaSkeleport" />
+          <attribute id="UUID" type="guid" value="7a4a236c-96b7-4eed-98e0-21cf7aa88df3" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 7" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="976d0bee-52e6-4a01-a76e-4da4016b1a25" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 8" />
+          <attribute id="Spells" type="LSString" value="Target_DestroyUndead_Shot;Target_HealUndead_Shot" />
+          <attribute id="UUID" type="guid" value="a5ef9189-cc56-4f2f-b974-e252d19f562b" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 9" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="db23ed1d-1afd-48d4-8c03-7054d78b43da" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 10" />
+          <attribute id="Spells" type="LSString" value="Target_Resurrect_Shot" />
+          <attribute id="UUID" type="guid" value="ca17a71e-86b8-4e52-af0c-2ea7c42e3c72" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 11" />
+          <attribute id="Spells" type="LSString" value="Dethrone" />
+          <attribute id="UUID" type="guid" value="8942b2f6-53e6-494f-b395-fc275ae3c02a" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 12" />
+          <attribute id="Spells" type="LSString" value="Target_CreateUndead" />
+          <attribute id="UUID" type="guid" value="58b4fad4-2ef4-4c27-94b1-d5a545882746" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunzerker Level 1" />
+          <attribute id="Spells" type="LSString" value="Shout_SummonGZChest" />
+          <attribute id="UUID" type="guid" value="2a0f8819-a1e6-44b3-9f5d-8ba6c391ea1d" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 1" />
+          <attribute id="Spells" type="LSString" value="GB_Fang;Shout_SummonGBChest" />
+          <attribute id="UUID" type="guid" value="b0bce104-d272-494e-af4f-2f4e2c2bad35" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 2" />
+          <attribute id="Spells" type="LSString" value="Shout_TheseBoots;GB_Projectile_Net;Shout_GS_ActionSurge" />
+          <attribute id="UUID" type="guid" value="f150f13a-fc19-46d2-925e-f0fe4f3712c2" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 3" />
+          <attribute id="Spells" type="LSString" value="GB_LeapStrike;GB_FlameStrike;GB_Claw;Shout_InspiringPalaver" />
+          <attribute id="UUID" type="guid" value="4b4136d2-3d98-4e54-b31c-4f75723c9cf3" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 4" />
+          <attribute id="Spells" type="LSString" value="GB_GrappleShot;GB_Protection_Unlock;GB_FlameShot" />
+          <attribute id="UUID" type="guid" value="2fda55da-0d42-47e4-8ea0-5f84e36d617d" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 5" />
+          <attribute id="Spells" type="LSString" value="GB_Countershot_Unlock;GB_Scattergun;GB_Talon" />
+          <attribute id="UUID" type="guid" value="cfd3e7e9-cce8-405e-8f09-8b4b2d97e2d6" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 6" />
+          <attribute id="Spells" type="LSString" value="GB_Projectile_Grease_Grenade;GB_Projectile_Flame_Grenade" />
+          <attribute id="UUID" type="guid" value="700240d1-6215-4fbb-a273-250dc8aa57fb" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 7" />
+          <attribute id="Spells" type="LSString" value="GB_Dragonfire;GB_AttackOfOpportunity_Unlock" />
+          <attribute id="UUID" type="guid" value="d244f45c-9827-48aa-9baf-f9157ad780a4" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 8" />
+          <attribute id="Spells" type="LSString" value="GB_Rescue" />
+          <attribute id="UUID" type="guid" value="3f9a2c2d-9313-4166-bfae-8ec62a496f31" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 9" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="03cc4710-1a52-47c0-aab4-9808d40658ff" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 10" />
+          <attribute id="Spells" type="LSString" value="GB_PiercingShot" />
+          <attribute id="UUID" type="guid" value="12078613-8bf0-4c5c-ae8c-6142fe134d10" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 11" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="6d725e31-e7c4-4890-945f-d40149b61f21" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunbreaker Level 12" />
+          <attribute id="Spells" type="LSString" value="GB_Projectile_Frag_Grenade" />
+          <attribute id="UUID" type="guid" value="e0414fdb-35e9-4f17-b1e7-8c1e5228b7d9" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 1" />
+          <attribute id="Spells" type="LSString" value="Projectile_SneakAttack;Shout_SummonGJChest" />
+          <attribute id="UUID" type="guid" value="e8fcfe43-bd33-4e79-9eb8-5c2dd9d0cfe8" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 2" />
+          <attribute id="Spells" type="LSString" value="Shout_Dash_StepOfTheWind_GJ;Shout_Disengage_StepOfTheWind_GJ;Shout_PatientDefense_GJ" />
+          <attribute id="UUID" type="guid" value="4771e3fe-7cc0-4755-a1f3-f51985c851d3" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 3" />
+          <attribute id="Spells" type="LSString" value="Shout_Hide_ShadowArts;Shout_PassWithoutTrace_GJ;Target_Darkness_GJ;Target_Darkvision_GJ;Target_MinorIllusion;Target_Silence_GJ" />
+          <attribute id="UUID" type="guid" value="31e3b9fa-389e-49b9-baea-8436458322d8" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 4" />
+          <attribute id="Spells" type="LSString" value="GJ_KICK" />
+          <attribute id="UUID" type="guid" value="0c242f25-2bf6-43e0-8366-a6f6e92c91a9" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 5" />
+          <attribute id="Spells" type="LSString" value="GJ_SmokeBomb" />
+          <attribute id="UUID" type="guid" value="92853a91-f591-4e95-9c83-db2a6d9a5d9b" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 6" />
+          <attribute id="Spells" type="LSString" value="Target_ShadowStep" />
+          <attribute id="UUID" type="guid" value="11335600-5787-4757-8c38-be87dca61732" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 7" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="cec06125-761c-4a5f-94b4-173ffbd80fb9" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 8" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="8c0889cb-19a3-4a29-9bc7-f4460149bacc" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 9" />
+          <attribute id="Spells" type="LSString" value="Target_KaResonation_Shot;Projectile_KaResonation_Blast_Target;Target_KaResonation_Shot_BonusAction" />
+          <attribute id="UUID" type="guid" value="022731b5-ff4f-4d7a-8e01-123fb68ea1d4" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 10" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="4ad607d7-efb0-4989-ae6c-e3e5dd88a80e" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 11" />
+          <attribute id="Spells" type="LSString" value="GJ_ShadowStrike" />
+          <attribute id="UUID" type="guid" value="f2ee0eb9-9f35-4d68-8e9f-b462301a0395" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 12" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="f0eac440-a0d7-468a-af2b-a73141358e4a" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gunjitsu Level 17" />
+          <attribute id="Spells" type="LSString" value="GJ_Opportunist_Unlock" />
+          <attribute id="UUID" type="guid" value="5df1d65e-a3bf-4fbd-ad7f-ed04645e8c41" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GMGS Cantrips" />
+          <attribute id="Spells" type="LSString" value="Target_GMGS_AcidSplash;Shout_BladeWard;Target_GMGS_BoneChill;Target_GMGS_EldritchBlast;Target_GMGS_FireBolt;Target_GMGS_PoisonSpray;Target_GMGS_RayofFrost;Target_GMGS_SacredFlame;Target_GMGS_ShockingGrasp;Target_GMGS_ViciousMockery;Target_Light;Target_TrueStrike;Target_Resistance" />
+          <attribute id="UUID" type="guid" value="a64f1cea-b0bf-4594-ac16-24e3669be086" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Mage Start" />
+          <attribute id="Spells" type="LSString" value="Shout_SummonMageChest" />
+          <attribute id="UUID" type="guid" value="264ac9ad-907d-489c-a623-3f87a954b7d7" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Mage Level 1" />
+          <attribute id="Spells" type="LSString" value="Projectile_ChromaticOrb_Ka;Target_FogCloud_Ka;Target_CharmPerson_Ka_Container;Target_Sleep_Ka_Container;Shout_Shield_Sorcerer_Ka;Zone_BurningHands_Ka_Container;Projectile_MagicMissile_Ka_Container;Target_MageArmor_Ka;Zone_Thunderwave_Ka_Container;Projectile_WitchBolt_Ka_Container;Zone_ColorSpray_Ka_Container;Shout_FalseLife_Ka;Projectile_RayOfSickness_Ka_Container;Shout_ExpeditiousRetreat_Ka;Shout_FeatherFall_Ka;Target_Jump_Ka;Projectile_IceKnife_Ka_Container" />
+          <attribute id="UUID" type="guid" value="f2a3202e-c908-44ae-b04b-3bb8dc4c8497" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Mage Level 2" />
+          <attribute id="Spells" type="LSString" value="Target_Blindness_Ka_Container;Shout_Blur_Ka;Target_CrownOfMadness_Ka_Container;Target_Darkness_Ka;Target_Darkvision_Ka;Shout_DetectThoughts_Ka;Target_EnhanceAbility_Ka;Target_EnlargeReduce_Ka;Zone_GustOfWind_Ka_Container;Target_HoldPerson_Ka_Container;Target_Invisibility_Ka;Target_Knock_Ka;Shout_MirrorImage_Ka;Target_MistyStep_Ka;Target_PhantasmalForce_Ka_Container;Projectile_ScorchingRay_Ka_Container;Shout_SeeInvisibility_Ka;Target_Shatter_Ka_Container;Target_Web_Ka;Projectile_ChromaticOrb_Ka;Target_FogCloud_Ka;Target_CharmPerson_Ka_Container;Target_Sleep_Ka_Container;Shout_Shield_Sorcerer_Ka;Zone_BurningHands_Ka_Container;Projectile_MagicMissile_Ka_Container;Target_MageArmor_Ka;Zone_Thunderwave_Ka_Container;Projectile_WitchBolt_Ka_Container;Zone_ColorSpray_Ka_Container;Shout_FalseLife_Ka;Projectile_RayOfSickness_Ka_Container;Shout_ExpeditiousRetreat_Ka;Shout_FeatherFall_Ka;Target_Jump_Ka;Projectile_IceKnife_Ka_Container" />
+          <attribute id="UUID" type="guid" value="4a6325a9-ba2c-4e16-bd53-b9230443ff23" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Mage Level 3" />
+          <attribute id="Spells" type="LSString" value="Shout_Blink_Ka;Target_Counterspell_Ka;Target_Daylight_Container_Ka;Zone_Fear_Ka_Container;Projectile_Fireball_Ka_Container;Target_Fly_Ka;Target_GaseousForm_Ka;Target_Haste_Ka;Target_HypnoticPattern_Ka_Container;Zone_LightningBolt_Ka_Container;Target_ProtectionFromEnergy_Ka;Target_SleetStorm_Ka_Container;Target_Slow_Ka_Container;Target_StinkingCloud_Ka_Container;Target_Blindness_Ka_Container;Shout_Blur_Ka;Target_CrownOfMadness_Ka_Container;Target_Darkness_Ka;Target_Darkvision_Ka;Shout_DetectThoughts_Ka;Target_EnhanceAbility_Ka;Target_EnlargeReduce_Ka;Zone_GustOfWind_Ka_Container;Target_HoldPerson_Ka_Container;Target_Invisibility_Ka;Target_Knock_Ka;Shout_MirrorImage_Ka;Target_MistyStep_Ka;Target_PhantasmalForce_Ka_Container;Projectile_ScorchingRay_Ka_Container;Shout_SeeInvisibility_Ka;Target_Shatter_Ka_Container;Target_Web_Ka;Projectile_ChromaticOrb_Ka;Target_FogCloud_Ka;Target_CharmPerson_Ka_Container;Target_Sleep_Ka_Container;Shout_Shield_Sorcerer_Ka;Zone_BurningHands_Ka_Container;Projectile_MagicMissile_Ka_Container;Target_MageArmor_Ka;Zone_Thunderwave_Ka_Container;Projectile_WitchBolt_Ka_Container;Zone_ColorSpray_Ka_Container;Shout_FalseLife_Ka;Projectile_RayOfSickness_Ka_Container;Shout_ExpeditiousRetreat_Ka;Shout_FeatherFall_Ka;Target_Jump_Ka;Projectile_IceKnife_Ka_Container" />
+          <attribute id="UUID" type="guid" value="7108c262-3bb9-40e9-9e75-c24af3f79e9c" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Mage Level 4" />
+          <attribute id="Spells" type="LSString" value="Target_Banishment_Ka_Container;Target_Blight_Ka_Container;Target_Confusion_Ka_Container;Teleportation_DimensionDoor_Ka;Target_DominateBeast_Ka;Target_Invisibility_Greater_Ka;Target_IceStorm_Ka_Container;Target_Polymorph_Ka_Container;Target_Stoneskin_Ka;Wall_WallOfFire_Ka_Container;Shout_Blink_Ka;Target_Counterspell_Ka;Target_Daylight_Container_Ka;Zone_Fear_Ka_Container;Projectile_Fireball_Ka_Container;Target_Fly_Ka;Target_GaseousForm_Ka;Target_Haste_Ka;Target_HypnoticPattern_Ka_Container;Zone_LightningBolt_Ka_Container;Target_ProtectionFromEnergy_Ka;Target_SleetStorm_Ka_Container;Target_Slow_Ka_Container;Target_StinkingCloud_Ka_Container;Target_Blindness_Ka_Container;Shout_Blur_Ka;Target_CrownOfMadness_Ka_Container;Target_Darkness_Ka;Target_Darkvision_Ka;Shout_DetectThoughts_Ka;Target_EnhanceAbility_Ka;Target_EnlargeReduce_Ka;Zone_GustOfWind_Ka_Container;Target_HoldPerson_Ka_Container;Target_Invisibility_Ka;Target_Knock_Ka;Shout_MirrorImage_Ka;Target_MistyStep_Ka;Target_PhantasmalForce_Ka_Container;Projectile_ScorchingRay_Ka_Container;Shout_SeeInvisibility_Ka;Target_Shatter_Ka_Container;Target_Web_Ka;Projectile_ChromaticOrb_Ka;Target_FogCloud_Ka;Target_CharmPerson_Ka_Container;Target_Sleep_Ka_Container;Shout_Shield_Sorcerer_Ka;Zone_BurningHands_Ka_Container;Projectile_MagicMissile_Ka_Container;Target_MageArmor_Ka;Zone_Thunderwave_Ka_Container;Projectile_WitchBolt_Ka_Container;Zone_ColorSpray_Ka_Container;Shout_FalseLife_Ka;Projectile_RayOfSickness_Ka_Container;Shout_ExpeditiousRetreat_Ka;Shout_FeatherFall_Ka;Target_Jump_Ka;Projectile_IceKnife_Ka_Container" />
+          <attribute id="UUID" type="guid" value="13e94806-df90-4fba-833e-70427e5006c3" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Mage Level 5" />
+          <attribute id="Spells" type="LSString" value="Target_Cloudkill_Ka_Container;Zone_ConeOfCold_Ka_Container;Target_DominatePerson_Ka;Target_HoldMonster_Ka_Container;Target_InsectPlague_Ka_Container;Target_Seeming_Ka;Throw_Telekinesis_Ka;Wall_WallOfStone_Ka;Target_Banishment_Ka_Container;Target_Blight_Ka_Container;Target_Confusion_Ka_Container;Teleportation_DimensionDoor_Ka;Target_DominateBeast_Ka;Target_Invisibility_Greater_Ka;Target_IceStorm_Ka_Container;Target_Polymorph_Ka_Container;Target_Stoneskin_Ka;Wall_WallOfFire_Ka_Container;Shout_Blink_Ka;Target_Counterspell_Ka;Target_Daylight_Container_Ka;Zone_Fear_Ka_Container;Projectile_Fireball_Ka_Container;Target_Fly_Ka;Target_GaseousForm_Ka;Target_Haste_Ka;Target_HypnoticPattern_Ka_Container;Zone_LightningBolt_Ka_Container;Target_ProtectionFromEnergy_Ka;Target_SleetStorm_Ka_Container;Target_Slow_Ka_Container;Target_StinkingCloud_Ka_Container;Target_Blindness_Ka_Container;Shout_Blur_Ka;Target_CrownOfMadness_Ka_Container;Target_Darkness_Ka;Target_Darkvision_Ka;Shout_DetectThoughts_Ka;Target_EnhanceAbility_Ka;Target_EnlargeReduce_Ka;Zone_GustOfWind_Ka_Container;Target_HoldPerson_Ka_Container;Target_Invisibility_Ka;Target_Knock_Ka;Shout_MirrorImage_Ka;Target_MistyStep_Ka;Target_PhantasmalForce_Ka_Container;Projectile_ScorchingRay_Ka_Container;Shout_SeeInvisibility_Ka;Target_Shatter_Ka_Container;Target_Web_Ka;Projectile_ChromaticOrb_Ka;Target_FogCloud_Ka;Target_CharmPerson_Ka_Container;Target_Sleep_Ka_Container;Shout_Shield_Sorcerer_Ka;Zone_BurningHands_Ka_Container;Projectile_MagicMissile_Ka_Container;Target_MageArmor_Ka;Zone_Thunderwave_Ka_Container;Projectile_WitchBolt_Ka_Container;Zone_ColorSpray_Ka_Container;Shout_FalseLife_Ka;Projectile_RayOfSickness_Ka_Container;Shout_ExpeditiousRetreat_Ka;Shout_FeatherFall_Ka;Target_Jump_Ka;Projectile_IceKnife_Ka_Container" />
+          <attribute id="UUID" type="guid" value="b465ae7b-a4a5-4759-8022-0ee6fe5f17df" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Saint Start" />
+          <attribute id="Spells" type="LSString" value="Shout_SummonSaintChest" />
+          <attribute id="UUID" type="guid" value="8b771257-0234-45d2-9d39-7a53bb80e059" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Saint Level 1" />
+          <attribute id="Spells" type="LSString" value="Target_Bane_Ka_Container;Target_Bless_Ka;Target_Command_Container_Ka;Target_CreateDestroyWater_Ka;Target_CureWounds_Ka_Container;Projectile_GuidingBolt_Ka_Container;Target_HealingWord_Ka;Target_InflictWounds_Ka_Container;Target_ProtectionFromEvilAndGood_Ka;Target_Sanctuary_Ka;Target_ShieldOfFaith_Ka" />
+          <attribute id="UUID" type="guid" value="17fdd06f-4129-4794-8f8d-890e7457b731" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Saint Level 2" />
+          <attribute id="Spells" type="LSString" value="Teleportation_Revivify_Ka;Shout_Aid_Ka;Target_Blindness_Ka;Target_CalmEmotions_Ka;Target_EnhanceAbility_Ka;Target_HoldPerson_Ka_Container;Target_LesserRestoration_Ka;Shout_PrayerOfHealing_Ka;Target_ProtectionFromPoison_Ka;Target_Silence_Ka_Container;Target_SpiritualWeapon_Ka;Target_WardingBond_Ka;Target_CureWounds_Ka_Container;Projectile_GuidingBolt_Ka_Container;Target_HealingWord_Ka;Target_InflictWounds_Ka_Container;Target_ShieldOfFaith_Ka;Target_Bane_Ka_Container;Target_Bless_Ka;Target_Command_Container_Ka;Target_CreateDestroyWater_Ka;Target_ProtectionFromEvilAndGood_Ka;Target_Sanctuary_Ka" />
+          <attribute id="UUID" type="guid" value="5657f0a5-494e-4619-98f2-c23d97b47489" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Saint Level 3" />
+          <attribute id="Spells" type="LSString" value="Target_AnimateDead_Ka;Shout_BeaconOfHope_Ka;Target_BestowCurse_Ka;Target_Daylight_Container_Ka;Target_FeignDeath_Ka;Target_GlyphOfWarding_Ka;Shout_HealingWord_Mass_Ka;Target_ProtectionFromEnergy_Ka;Target_RemoveCurse_Ka;Target_SpeakWithDead_Ka;Shout_SpiritGuardians_Ka;Shout_Aid_Ka;Target_Blindness_Ka;Target_CalmEmotions_Ka;Target_EnhanceAbility_Ka;Target_HoldPerson_Ka_Container;Target_LesserRestoration_Ka;Shout_PrayerOfHealing_Ka;Target_ProtectionFromPoison_Ka;Target_Silence_Ka_Container;Target_SpiritualWeapon_Ka;Target_WardingBond_Ka;Target_CureWounds_Ka_Container;Projectile_GuidingBolt_Ka_Container;Target_HealingWord_Ka;Target_InflictWounds_Ka_Container;Target_ShieldOfFaith_Ka;Target_Bane_Ka_Container;Target_Bless_Ka;Target_Command_Container_Ka;Target_CreateDestroyWater_Ka;Target_ProtectionFromEvilAndGood_Ka;Target_Sanctuary_Ka" />
+          <attribute id="UUID" type="guid" value="302b9a04-2b68-4bec-94df-763dd577cb86" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Saint Level 4" />
+          <attribute id="Spells" type="LSString" value="Target_DeathWard_Ka;Target_FreedomOfMovement_Ka;Target_GuardianOfFaith_Ka;Target_AnimateDead_Ka;Shout_BeaconOfHope_Ka;Target_BestowCurse_Ka;Target_Daylight_Container_Ka;Target_FeignDeath_Ka;Target_GlyphOfWarding_Ka;Shout_HealingWord_Mass_Ka;Target_ProtectionFromEnergy_Ka;Target_RemoveCurse_Ka;Target_SpeakWithDead_Ka;Shout_SpiritGuardians_Ka;Shout_Aid_Ka;Target_Blindness_Ka;Target_CalmEmotions_Ka;Target_EnhanceAbility_Ka;Target_HoldPerson_Ka_Container;Target_LesserRestoration_Ka;Shout_PrayerOfHealing_Ka;Target_ProtectionFromPoison_Ka;Target_Silence_Ka_Container;Target_SpiritualWeapon_Ka;Target_WardingBond_Ka;Target_CureWounds_Ka_Container;Projectile_GuidingBolt_Ka_Container;Target_HealingWord_Ka;Target_InflictWounds_Ka_Container;Target_ShieldOfFaith_Ka;Target_Bane_Ka_Container;Target_Bless_Ka;Target_Command_Container_Ka;Target_CreateDestroyWater_Ka;Target_ProtectionFromEvilAndGood_Ka;Target_Sanctuary_Ka" />
+          <attribute id="UUID" type="guid" value="11af5735-d96d-4c23-9635-2988fa536208" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Gun Saint Level 5" />
+          <attribute id="Spells" type="LSString" value="Target_Contagion_Ka;Shout_DispelEvilAndGood_Ka;Target_FlameStrike_Ka_Container;Target_GreaterRestoration_Ka;Target_InsectPlague_Ka_Container;Target_CureWounds_Mass_Ka;Target_PlanarBinding_Ka_Container;Target_Banishment_Ka_Container;Target_DeathWard_Ka;Target_FreedomOfMovement_Ka;Target_GuardianOfFaith_Ka;Target_AnimateDead_Ka;Shout_BeaconOfHope_Ka;Target_BestowCurse_Ka;Target_Daylight_Container_Ka;Target_FeignDeath_Ka;Target_GlyphOfWarding_Ka;Shout_HealingWord_Mass_Ka;Target_ProtectionFromEnergy_Ka;Target_RemoveCurse_Ka;Target_SpeakWithDead_Ka;Shout_SpiritGuardians_Ka;Shout_Aid_Ka;Target_Blindness_Ka;Target_CalmEmotions_Ka;Target_EnhanceAbility_Ka;Target_HoldPerson_Ka_Container;Target_LesserRestoration_Ka;Shout_PrayerOfHealing_Ka;Target_ProtectionFromPoison_Ka;Target_Silence_Ka_Container;Target_SpiritualWeapon_Ka;Target_WardingBond_Ka;Target_CureWounds_Ka_Container;Projectile_GuidingBolt_Ka_Container;Target_HealingWord_Ka;Target_InflictWounds_Ka_Container;Target_ShieldOfFaith_Ka;Target_Bane_Ka_Container;Target_Bless_Ka;Target_Command_Container_Ka;Target_CreateDestroyWater_Ka;Target_ProtectionFromEvilAndGood_Ka;Target_Sanctuary_Ka" />
+          <attribute id="UUID" type="guid" value="b68a764d-c23d-4d00-a330-9af9fe2a3b39" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Deadeye Passives" />
+          <attribute id="Spells" type="LSString" value="Target_Deadeye_ShadowStep_Reaction;Target_Deadeye_Riposte;Unlock_Deadeye_Ironsides;Target_Deadeye_SappingAttack;Target_Deadeye_Overkill;Target_Deadeye_Kick;Target_Deadeye_Countershot;Target_Deadeye_Cunning_Reaction;Target_Deadeye_Rebuke" />
+          <attribute id="UUID" type="guid" value="4ba80ba6-78f5-4134-beb2-ac716e11ca97" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Deadeye Start" />
+          <attribute id="Spells" type="LSString" value="Shout_SummonDeadeyeChest" />
+          <attribute id="UUID" type="guid" value="eff37ce9-c554-4a38-ad91-f7bb11ef6987" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Deadeye Level 3" />
+          <attribute id="Spells" type="LSString" value="Target_DeadeyesMark;Shout_UmbralCloak" />
+          <attribute id="UUID" type="guid" value="01cec303-f617-4632-8f2e-560d512f7cbe" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Deadeye Level 6" />
+          <attribute id="Spells" type="LSString" value="Target_Deadeye_ShadowStep" />
+          <attribute id="UUID" type="guid" value="f11a3e9c-a02e-4b2c-9158-e60af61ba653" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

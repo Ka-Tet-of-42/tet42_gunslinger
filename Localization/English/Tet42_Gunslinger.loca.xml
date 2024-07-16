@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h5f5694f5ab7b4b4495479ff1fa5b5073g601" version="1">Ka</content>
+	<content contentuid="h445c7b751ed9480c94683727af45de2b5e0d" version="1">A resource used by Gunslingers to fuel special abilities.</content>
+	<content contentuid="h242d43434175481d829aee14f166ce4c5311" version="1">Weenie Hut Jr.</content>
+	<content contentuid="h5c09a7b8590e4b77be13e70cbddc37708b55" version="1">Off-hand Ammo</content>
+	<content contentuid="h4746588c88f243c9a3bd007ed9c7ab4b2b41" version="1">Main-hand Ammo</content>
+	<content contentuid="hd876369f6b054d339947d48af02a03472a36" version="1">Number of Shots remaining before you need to reload your main firearm.</content>
+	<content contentuid="h167f89f3814e44ee9d1d3dc12e9f4a80364c" version="1">Number of Shots remaining before you need to reload your off-hand firearm.</content>
+	<content contentuid="h8e833e26g3248g4b03gae2cg7512460a71fd" version="1">The Reload Trick</content>
+	<content contentuid="h52b306c2g4c1dg457cg9fffg07a313f554cb" version="1">You can now dual reload for 1 Ka. You also automatically reload your firearm(s) after leaving combat.</content>
+	<content contentuid="hc6e746d8ge232g44bbga5bdg25e5827caa43" version="1">Firearm Proficieny</content>
+	<content contentuid="h15fbbcc81a6044feb9f180e6f1328fc99c5d" version="1">You are proficient with using firearms.</content>
+	<content contentuid="h8350d79256b141e68aa1099c664c061a4b48" version="1">Proficiency with firearms.</content>
+	<content contentuid="hecacaad5g180bg47afgaa72gf2d64e4fe168" version="1">Dual Wield Ranged Attack</content>
+	<content contentuid="h56eef872g0bcag4236g9595g9191910abdba" version="1">Gunslinger Protection</content>
+	<content contentuid="he027d168f8cf4ef5b7d46269fee0014577ed" version="1">Gunslinger Countershot</content>
+	<content contentuid="hbd0e6d32bd3b481dacc3da8d644bf5d78694" version="1">Counters the spell being cast and deafens the target for 2 turns.</content>
+	<content contentuid="h6051fbddg4d6bg44f9g852eg765b7b345861" version="1">Ranged shot that targets enemies who harm your companions.</content>
+	<content contentuid="h86fc7417gba24g43e9gac8eg8c8ec44c3f83" version="1">Gunslinger Attack of Opportunity</content>
+	<content contentuid="h8783b69cge6fag434dgb326gbdbe95238b03" version="1">You should never try to flee from a Gunslinger</content>
+	<content contentuid="hee7a5e51gd4d5g4448g9081g37119fe6dcbd" version="1">Fan the Hammer</content>
+	<content contentuid="hf672c3daga422g486bg9719gbfb29673e00e" version="1">Rapidly fire 6 shots.</content>
+	<content contentuid="h521dc077g1ad7g4f2ag8ca1gb571bc3a96e6" version="1">Bullet to the Thigh</content>
+	<content contentuid="h65539074gd821g40f9gaeaag0f69c7610ad5" version="1">The target's movement is slowed.</content>
+	<content contentuid="hb74bec0eg184fg46c4g844eg9da9d12cd629" version="1">Main-Hand Firearm Attack</content>
+	<content contentuid="he0396c0dgf591g49dagbf53gcdfb4c077cb6" version="1">Off-Hand Firearm Attack</content>
+	<content contentuid="h2fbaf9bfg9946g4710g9bb3g9225fd6a2dd0" version="1">Main-Hand Firearm Attack</content>
+	<content contentuid="h122959d7g921bg4a66gbdfdg316e37189afb" version="1">Off-Hand Firearm Attack</content>
+	<content contentuid="h79b602f1g0057g482ega597g3872fe21ed1a" version="1">Dual Wield Firearm Attack</content>
+	<content contentuid="h5e49cee6cfc04b0ab91173849b69e2e796ef" version="1">Attack with both ranged weapons.</content>
+	<content contentuid="hbe77f7719bc044c3bd4f1e394a601c469512" version="1">Deafened</content>
+	<content contentuid="hba31d85d71df40359b39fa17da7709fa4435" version="1">The target is deafened, stopping spellcasting that requires verbal components.</content>
+	<content contentuid="h30a6a1de49ff4c5c906c6d9f31af1dc3cgec" version="1">Main Hand Reload</content>
+	<content contentuid="h64e62fee921d480b9e846796c7597dd295a1" version="1">Reloads your main hand gun.</content>
+	<content contentuid="hde695aceb6184246af70ea04caf0e90b4544" version="1">Off Hand Reload</content>
+	<content contentuid="hf5310148a3ed450387d89eee1203ffc745fg" version="1">Reloads your off-hand gun.</content>
+	<content contentuid="h9a100deebdae4f41a7c645f447d97eef195a" version="1">Full Reload</content>
+	<content contentuid="h15710e2a712a47fea5af4e7c53a63107db0a" version="1">Reloads your main and off hand guns.</content>
+	<content contentuid="h63b2c153b6bc4e78a428f9568b930bca9b42" version="1">Banishing Shot</content>
+	<content contentuid="hcbf002c7519342819bab37d7393f9a77928e" version="1">Does weapon damage and the target will be banished for 2 turns.</content>
+	<content contentuid="h95536af43b204f4b8e3b2849a8cf053c9893" version="1">The target is banished for 2 turns.</content>
+	<content contentuid="h9c275d8fc2d543fbbc24cc562e8cc292399a" version="1">Gunslinger: Point-Blank</content>
+	<content contentuid="hdd9b611882154f0ebabcee061e5d7efa6b62" version="1">When you make ranged weapon attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h412fb35c01f6465183f83993db61d5837ba4" version="1">Gunslinger: Evasion</content>
+	<content contentuid="h359bdb7e78e043a59b8e18d68ef10a915c1g" version="1">Your agility lets you dodge out of the way of certain spells.&lt;br&gt;&lt;br&gt;When a spell or effect would deal half damage on a successful Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, it deals no damage if you succeed, and only half damage if you fail.</content>
+	<content contentuid="he6c59ef1952c45bebcbce1c6c0fb165836ee" version="1">Gunslinger's Resolve</content>
+	<content contentuid="heb7f99c789fb45afa6974ef8201198b5ff83" version="1">Gunblade Resolve</content>
+	<content contentuid="h94dbae90f864477292d7d0adedafff67a694" version="1">On Damage Rolls, roll twice and use the higher result.</content>
+	<content contentuid="h38ac143ce5f14e7c9ea372c17d8e6ad8f47g" version="1">Fighting Style: Gunslinging</content>
+	<content contentuid="h67c1f271e27d4e0aa1d70be0b651044f9049" version="1">You gain a +2 bonus to &lt;LSTag Tooltip="RangedWeaponAttack"&gt;ranged weapon attacks&lt;/LSTag&gt;.</content>
+	<content contentuid="hb346d8006f2f4ec6ae04929d83dbcb472b06" version="1">Gun Transmogger</content>
+	<content contentuid="h0f757503f7fd4d5ea01779729b380f5bc3d4" version="1">Switches between the Colt Navy and Army models.</content>
+	<content contentuid="h3490d25db6dc497d9409d426be30a134d94f" version="1">Gunslinger</content>
+	<content contentuid="hb22b8030a91c433eb55869b160b7dad90cc3" version="1">Descended from the Knightly order of Arthur Eld, these warriors defend all that is good.&lt;br&gt;&lt;br&gt;The Gunslinger Litany&lt;br&gt;I do not aim with my hand.&lt;br&gt;He who aims with his hand has forgotten the face of his father.&lt;br&gt;I aim with my eye.&lt;br&gt;I do not shoot with my hand.&lt;br&gt;He who shoots with his hand has forgotten the face of his father.&lt;br&gt;I shoot with my mind.&lt;br&gt;I do not kill with my gun.&lt;br&gt;He who kills with his gun has forgotten the face of his father.&lt;br&gt;I kill with my heart.</content>
+	<content contentuid="h1eef2609gbf52g4051g8b17gfc354e7dc6bf" version="1">Aim With My Eye</content>
+	<content contentuid="hee30a52bg9e20g4ed7gab51gf6497f242738" version="1">A precise shot that causes weapon damage and slows your target.</content>
+	<content contentuid="h428a636dg77eag4405g85feg110894e93126" version="1">Shoot With My Mind</content>
+	<content contentuid="h8b66092dgb4dbg41d9gb7b4gdb331ac3d764" version="1">Your knowledge allows you to strike with surgical accuracy to target a vital artery which causes weapon damage and bleeds your target.</content>
+	<content contentuid="h5339a79eg2c70g48deg8af1g740d5b12a401" version="1">Kill With My Heart</content>
+	<content contentuid="he99f2f55g350eg4c1dg8d9cg8ecdf44e7dbd" version="1">If the target is both bleeding and slowed you do extra damage and knock your target prone.</content>
+	<content contentuid="hfbda6582g052ag4eb9g8781g452b7a906cc7" version="1">Gunslinger Focus</content>
+	<content contentuid="h42c973b9gd603g49a6ga6c2gaacabbb5cc88" version="1">You take a moment to center yourself and restore your Ka.</content>
+	<content contentuid="hdec95630g4d59g425ag906dg4fed1ea4484e" version="1">Inspiring Palaver</content>
+	<content contentuid="h6ee38de2g7d5eg410fg8915g5a80061a3c0a" version="1">You inspire with your words, giving yourself and your companions advantage for 1 turn.</content>
+	<content contentuid="hddc74348g534ag4604g8a1dg27426ba2d7f4" version="1">Aura of the Gunslinger</content>
+	<content contentuid="ha584bfc5g1c1eg4d4fgbd4fg18bee32b72df" version="1">You radiate an aura the inspires your companions. Enemies have Disadvantage on Opportunity Attacks against you and your companions, the number needed to roll a Critical Hit is reduced by 1.</content>
+	<content contentuid="h04458b8dg4508g4c49ga667g450e382cc43d" version="1">Gunslinger Smite: Ranged</content>
+	<content contentuid="hcf5827fcg96d9g409fg84f5ge208ba363fb9" version="1">Gunslinger Smite Critical: Ranged</content>
+	<content contentuid="h0722bf5eg7b4eg4908g82cega9119178c16d" version="1">Your weapon deals an additional [1], increased by [2] when attacking fiends or undead.</content>
+	<content contentuid="h76f6ce90g1c50g47bcg94aeg58088544d88c" version="1">Gunslinger Smite: Reaction</content>
+	<content contentuid="hf7bb24f8g80d6g4a2bg958egd78daf7aeb8b" version="1">Gunslinger Smite Critical: Reaction</content>
+	<content contentuid="hd06e672dg93edg42b4g83f5gf0a84008f274" version="1">Deals an additional [1] per level.</content>
+	<content contentuid="h8c0c1fefg8c2fg443cg8bc3gb07926d661b1" version="1">Basic Firearm Maintenance Kit</content>
+	<content contentuid="ha6bfa880gfd81g446aga185g397c76cdd255" version="1">Contains a basic quality set of tools that includes a cleaning rod, brushes, a cleaning swab, oils, and rags to keep your firearm in working order.</content>
+	<content contentuid="ha402d69a04d846808c4550690e02dd8e154d" version="1">Advanced Firearm Maintenance Kit</content>
+	<content contentuid="h66f6326cg7871g4a2dg8ac2g9f4fa46f1e81" version="1">Contains a high quality set of tools that includes a cleaning rod, jags, patches, brushes, chemicals, a cleaning swab, oils, and rags to keep your firearm in excellent working order.</content>
+	<content contentuid="hd626ea3cga23fg4440ga97ag783fb1149cfd" version="1">Novice Gunslinger Revolver</content>
+	<content contentuid="h59664035g6932g441fg81f7g94b4f6f80239" version="1">A used weapon that hasn't been maintained well. &lt;br&gt;You should look around for some maintenance tools.</content>
+	<content contentuid="hd81a1e28g574cg42b5gabd0gd85f3bb2984f" version="1">Advanced Gunslinger Revolver</content>
+	<content contentuid="h60b9cbcfgf43ag441ag8169g2e0341f0b796" version="1">A clean and well maintained weapon.&lt;br&gt;You should look around for better quality maintenance tools.</content>
+	<content contentuid="h719b8c30ga38bg4a69gb3eagf43aa9819257" version="1">Experienced Gunslinger Revolver</content>
+	<content contentuid="he2775c69g494bg48dega642g39e3112ead9c" version="1">An immaculately maintained weapon.&lt;br&gt;With some specialized tools you could probably remake this into something special.</content>
+	<content contentuid="h657d4a00544b482aacada2f38d26d444b83b" version="1">Expert Gunslinger Revolver</content>
+	<content contentuid="h429a6be98335474cb7ccc23dd6bd7323089c" version="1">In the hands of an expert Gunslinger, this weapon is nearly perfect.&lt;br&gt;You wonder if there are any better to be found.</content>
+	<content contentuid="h22dbf160563d41ac908e3351f6bdcd25d6e7" version="1">Armament of Eld</content>
+	<content contentuid="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1">This is the weapon of a master Gunslinger.</content>
+	<content contentuid="h7da7b7263a3e4a0787910df48d1eb2e10664" version="1">Firearm Mini Forge</content>
+	<content contentuid="h23ffe6d7a93b45b8a79ac1f6391bf6184847" version="1">A small forge with tools that will enable you to break down your existing gun to create something new.</content>
+	<content contentuid="hcac39e2b23ad458e9f0ad76182e9f9cfg214" version="1">Improved Gunslinger Smite</content>
+	<content contentuid="h9cf3f4afa32649dfb65c79f6f95b66237073" version="1">Your attacks are infused with extra force.&lt;br&gt;&lt;br&gt;Ranged weapon attacks deal an additional [1].</content>
+	<content contentuid="he595677561774d5c994574e9b1b063d62169" version="1">High Velocity Round</content>
+	<content contentuid="h6d3327fab9f547acb0f41a54544bea85b658" version="1">Your bullet fires forward in a [1] long line. Each creature in that line must make a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or take weapon damage plus an extra [2] piercing damage.</content>
+	<content contentuid="h58938a89858444bc9f3783c1284ca8eba40d" version="1">Trick Shot</content>
+	<content contentuid="h11740c524cfe43709ddbde0bbfb7b030d36d" version="1">Fire [1] shots at targets of your choice. Dealing weapon damage to each target.</content>
+	<content contentuid="ha8e79010b9d141e3a83633e4626645f32b1d" version="1">Basic Dirge Firearm Maintenance Kit</content>
+	<content contentuid="hf4e6ec4f4ace456eb70a3b02e4cc0af42cf0" version="1">Advanced Dirge Firearm Maintenance Kit</content>
+	<content contentuid="hb8411e0eac9f4d50af483858044c94b58087" version="1">Dirge Firearm Mini Forge</content>
+	<content contentuid="h1d1de643e2de4844957d8c531ca0965270dc" version="1">Dirge Gun Transmogger</content>
+	<content contentuid="hd64fcc4eg3702g4897gbcd5g5fa6972566e8" version="1">Dirge</content>
+	<content contentuid="habf94624g1ea5g4af3gb717gca10ea61cbea" version="1">These Gunslingers follow a darker path. They have forsaken their oaths and dabble in necromancy and other foul arts.</content>
+	<content contentuid="h363ec077gd367g46cbg9348ge77e23aaafc5" version="1">Necrotic Missiles</content>
+	<content contentuid="hb9f0fb31g3450g456agaffeg6f54d6b2b1e1" version="1">Shoot [2] magical darts, each dealing [1]. They always hit their target.</content>
+	<content contentuid="hd9a7b646g12cag40c6g98b7g0aac2d90214e" version="1">Destroy Undead Shot</content>
+	<content contentuid="h35cf63edgde12g433eg947cg6a38ffc400e2" version="2">&lt;LSTag Type="Spell" Tooltip="Shout_TurnUndead"&gt;Turn&lt;/LSTag&gt; an undead creature, it also takes [1].</content>
+	<content contentuid="h04e80196g47e4g4d59g9e6egd10074c8215c" version="1">Undead Healing Shot!</content>
+	<content contentuid="h8c58d3a3g4461g4e29g9448g5aeaf5916451" version="1">This shot heals up to two undead allies 25% of their max HP.</content>
+	<content contentuid="hde81dd09g69afg46ecg88f1gca0d59f07500" version="1">Rise!</content>
+	<content contentuid="hebd1f1e2g0d10g4ef5ga3acgc80c96e7788b" version="1">You channel your song and your willpower into a powerful shot that heals an ally for 33% of their max HP, this will even bring a dead compantion back to life.</content>
+	<content contentuid="he29314d5gb747g4907gbda8g0be7ddbf9b61" version="1">Necrotic Adept</content>
+	<content contentuid="h8dd4ea5agbd83g44d4g909egebec67ac24a8" version="1">Spells you cast ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic damage. In addition, when you deal Necrotic damage with a spell, you cannot roll a 1.</content>
+	<content contentuid="h28d8bcfbg0eeag401egbca2g270a36290c63" version="1">Necrotic Rat Swarm</content>
+	<content contentuid="h5f6051e9g79a0g4a53g8464g93280199ae9e" version="1">Ok, it's just three necrotic graveyard rats. But they believe they are a swarm. Please support their choices.</content>
+	<content contentuid="ha95bdfc3f6fb4b98b8060945661a6d0975g0" version="1">Bad Moon Rising</content>
+	<content contentuid="h89369c2636f749da8ef79a87860528c05680" version="1">A beam of necrotic moonlight strikes the target and other nearby units. Leaves behind frozen ground.</content>
+	<content contentuid="h8b16e822fe15446e94991c950f2a0038abc1" version="1">Novice Dirge Revolver</content>
+	<content contentuid="h8ed5a71e9ade4dc1bfe3e35b2349778bcdee" version="1">Advanced Dirge Revolver</content>
+	<content contentuid="h6e3fe2e3066b47a48e85aae5eca2d31b88cc" version="1">Experienced Dirge Revolver</content>
+	<content contentuid="hb59f455166694bb59f3bd102cce9f41cd64g" version="1">Expert Dirge Revolver</content>
+	<content contentuid="h2fad8dd1fac3473f88cbcce5388d19d2gffe" version="1">Armament of Maerlyn</content>
+	<content contentuid="hbd6b090a5b2047e999e491543dedf11a513b" version="1">Expert Dirge Revolver</content>
+	<content contentuid="h78c176bbe0df4210b013cf42b728aa0fda73" version="1">Armament of Maerlyn</content>
+	<content contentuid="hb3dff921676345129b100b351a822eb54c76" version="1">Gunbreaker</content>
+	<content contentuid="hcd446cb7a5b94612b33bd8d79e830da14d82" version="1">The Gunbreaker is a mysterious nomadic warrior. This subclass is a defensive high mobility skirmisher that focuses on controlling and harassing enemies. With a wide variety of ammo types, the Gunbreaker has a shot for every occasion.</content>
+	<content contentuid="h2ee1e6afe0e8423faa184bb4a3ea8ae9b4d2" version="1">Grapple Shot</content>
+	<content contentuid="h097e5d1720f24a38bc87d5170c40af73g6fa" version="1">Fires an electrified tether and pulls in an enemy within 9m of your position. Compels the enemy to attack you for two turns.</content>
+	<content contentuid="h2d623e88740b458686a93ccf062b63352c39" version="1">These Boots</content>
+	<content contentuid="h77247b30a91344d09cab86f7fe49f4cdgbf4" version="1">Increases the Gunslingers movement speed.</content>
+	<content contentuid="hcf68e0d1f5ab4b548bbb4db2a45e3bef86c2" version="1">Gunbreaker Protection</content>
+	<content contentuid="h6bff67be699d4dfa82d9d685b556178fc590" version="1">As a reaction you fire an electrified tether and pull in an enemy who attacks one of your companions within 9m of your position. Compels the enemy to attack you instead for two turns.</content>
+	<content contentuid="hc1764607e9664a119bb04b174f44d8a7eb73" version="1">Gunbreaker Countershot</content>
+	<content contentuid="hd7967660efeb4e9081058d0368fd7e847gc0" version="1">Counters the spell being cast and deafens the target for 2 turns.</content>
+	<content contentuid="h3dcd2463874c4f2884b6d27df0994f560c10" version="1">Dual Wield Gunblade Attack</content>
+	<content contentuid="h62ce99ead7f845a3b3970242fe7cfe6ec493" version="1">Fang Strike</content>
+	<content contentuid="hd8ccb920b78c45f590f1064d69106a6772d4" version="1">The first strike in the Gunbreaker combo chain.</content>
+	<content contentuid="h03df780517164798971538fb3ccdf0fb4614" version="1">Claw Strike</content>
+	<content contentuid="h7c7a56b15b1f47399fa2583167750187gbcc" version="1">The second strike in the Gunbreaker combo chain.</content>
+	<content contentuid="hf1d47fc0e38c4d93b66cd2d175e937312f23" version="1">Talon Strike</content>
+	<content contentuid="h52ccd07aae02424a97801ae86e0546ecd2fg" version="1">The final strike in the Gunbreaker combo chain.</content>
+	<content contentuid="h60adf851e8f64d76adea8d471321abfaeaf6" version="1">Leaping Strike</content>
+	<content contentuid="h464a467b20c9429a97f659171308c0f9dfbd" version="1">Leap up to 9m to a target location, if you target an enemy unit you will also do damage and knock the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;prone&lt;/LSTag&gt;.</content>
+	<content contentuid="ha1190cd07cb849b79f12cfb82473d57a9adb" version="1">Frag Grenade</content>
+	<content contentuid="h34d148fec7944cbd9f387b688f980538597e" version="1">Fires a fragmentation grenade that causes explosive damage in a 4m radius on impact.</content>
+	<content contentuid="h776df742e1224514a8e769b93484099e1gag" version="1">Flame Grenade</content>
+	<content contentuid="hc1c94ac279f64c58b9491b79998311770f76" version="1">Fires a flame granade that causes fire damage in a 4m radius on impact. This attack will cause your weapon to overheat.</content>
+	<content contentuid="he5ad7af41109455386e84c2ae5c5a2265d54" version="1">Grease Grenade</content>
+	<content contentuid="hc4051ac8c4a54198a330ef155583ebe193b3" version="1">Fires a canister of grease that spreads in a 4m radius on impact.</content>
+	<content contentuid="he19f30df8d1242c08959e1ee2353a74d4d24" version="1">Piercing Shot</content>
+	<content contentuid="hf73c277e83114827baef37fdfd98af02d239" version="1">Flame Strike</content>
+	<content contentuid="h49cff3bd65ab413d93527c8056c56cd7c3d7" version="1">Flame Shot</content>
+	<content contentuid="h8b7baaa5c5de4413ab4cfaa899dcade27g5e" version="1">This attack will cause your weapon to overheat and if overheat convergence is activated it will deal bonus damage.</content>
+	<content contentuid="h58fe80d949bf4b9f9c747c7920195ca12f27" version="1">Gunbreaker Rescue</content>
+	<content contentuid="hb9b1b04a47f54a6eb122c2a7fcc0bdbb51b1" version="1">Rallies the targeted ally, grants temporary hit points and encloses them in a protective sphere for two turns.</content>
+	<content contentuid="h48cf4339ca4e4a17a395a55eb54d32e28a6g" version="1">Scattergun Blast</content>
+	<content contentuid="hced8e78350a14305ba695a94c8e89a2b9844" version="1">A close range cone attack that can hit and possibly daze multiple targets.</content>
+	<content contentuid="h0d7600ce38ec4e5cafc2efc1022b74d9f72d" version="1">Gunbreaker's Prey</content>
+	<content contentuid="hac035e122b404306b3babc17fb0e4f3940c9" version="1">Net Shot</content>
+	<content contentuid="h57f8e549262e49fe817c8c6ab6c97f37025f" version="1">Fires a net that entangles an enemy for 2 turns. If successful, it cannot be used again on the same enemy for 4 turns.</content>
+	<content contentuid="hcf9d616bb0bc460a85374056c4895bb938g5" version="1">Main-hand Ammo</content>
+	<content contentuid="h9be16df245854ba9ad89f37c0912cf6008gc" version="1">Number of Shots remaining before you need to reload your Gunblade.</content>
+	<content contentuid="h6f3c6bb01cee4b529dab999555e6d9e87a6e" version="1">Off-hand Ammo</content>
+	<content contentuid="h2731eaec2a93491eb9d73d5c5dba848242b2" version="1">Number of Shots remaining before you need to reload your off-hand Gunblade.</content>
+	<content contentuid="hf06333b71e054bbe955263964fa50ecd1c4g" version="1">Gunbreaker Overheat</content>
+	<content contentuid="h5d61c3aa25044e86886c5446580da68aaea9" version="1">Engulfed by a vengeful fire. Takes [1] each turn, but can use &lt;LSTag Type="Passive" Tooltip="MAG_Fire_Heat_Convergence_Passive"&gt;Overheat Convergence&lt;/LSTag&gt;.</content>
+	<content contentuid="h527fe4e8665b4c70b79e9dc0ae80640c87cc" version="1">Overheat Convergence</content>
+	<content contentuid="h9703d33ec1594b9f878d480b9345430023da" version="1">The next time you deal Fire damage, it deals an additional [1] for every turn of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt; affecting you. All stacks of overheat will be removed after the attack.</content>
+	<content contentuid="haad5198baf5347a492c73e0fe24a17910g44" version="1">%%% EMPTY</content>
+	<content contentuid="hf2e7d4aaaf8c498c8789ff6057fb653e8852" version="1">%%% Overheat Duration Check</content>
+	<content contentuid="hac849a3ea5b94eea8e2e5c3b93b573a7ef64" version="2">Overheat Convergence</content>
+	<content contentuid="hbb90c24ac1e7406ab5372db179019c28f30b" version="1">Consume your &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt; to fuel a powerful attack. </content>
+	<content contentuid="hd1ce23f8e3924a39bc6c95ee52a8517fagdb" version="1">The next time you deal Fire damage, it deals an additional [1] for every turn of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt; affecting you. All stacks of overheat will be removed after the attack.</content>
+	<content contentuid="hc9845a4911224f0daadca706eacccf70d6b9" version="1">Dragonfire</content>
+	<content contentuid="hdbcfea84208f4fcabca2a5ad03f9abfdfcbe" version="1">A cone of flame erupts from your blade doing fire damage and burning all in the area of effect.</content>
+	<content contentuid="h03eee95834dc49e7a80ec3af88c867876cf7" version="1">Hellfire</content>
+	<content contentuid="he1a1b81fe17d43c380f94a5fb09a1d0626c2" version="1">Whenever you inflict &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;, you gain 1 turn of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt;.</content>
+	<content contentuid="h62cc5024ee754174a9524a3ca80ac5014b18" version="1">Hot Lead</content>
+	<content contentuid="h3e6b7f8b273943709628109a518fd623f773" version="1">Whenever you deal Fire damage, you gain 2 turns of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt;.</content>
+	<content contentuid="h7dea1de68e164239b9889effc8b4331173eb" version="1">Basic Gunblade Maintenance Kit</content>
+	<content contentuid="hfee9ca37fcd140ea8c21e310f33d168730f4" version="1">Advanced Gunblade Maintenance Kit</content>
+	<content contentuid="h540924627dd348bd9132561f9d6585cf15c8" version="1">Gunblade Mini Forge</content>
+	<content contentuid="h6d88e8ba819b406fb119aef9ba35865eb781" version="1">Novice Gunblade</content>
+	<content contentuid="ha394c3c8f27d4969a6f001e946ab21d6646b" version="1">Advanced Gunblade</content>
+	<content contentuid="h3e2d3320f02f49c793ffea0219917f480372" version="1">Experienced Gunblade</content>
+	<content contentuid="h34134dc7a561492cb713c682cb3dd1f4c3ag" version="1">Expert Gunblade</content>
+	<content contentuid="hd06e13485b3b4ed88394e8292d8ca7b3a131" version="1">Gunblade of Eld</content>
+	<content contentuid="h0294feeafebb41dc8d22bc316a56afa230fd" version="1">Gunbreaker Main-Hand Ranged Attack</content>
+	<content contentuid="h9883e8df946543328a0b79443ff2be92gfad" version="1">Main-Hand Firearm Attack</content>
+	<content contentuid="h671f7ddec73b4c5d94990b51613d10cb0g1b" version="1">Gunbreaker Attack of Opportunity</content>
+	<content contentuid="hf2ce0a4884a34d8d8d39d21d49a4e68601f8" version="1">Gunjitsu: The Way of the Gun</content>
+	<content contentuid="h25f139086d1249988cc2a6f951bc8e176f26" version="1">The Gunjitsu practicioner practices subterfuge and specializes in dispatching enemies quickly and quietly.</content>
+	<content contentuid="h1d69e10af6444ad69fcb850315515a46482a" version="1">Main Hand Gunjitsu Attack</content>
+	<content contentuid="h1b85930c17564f7cb9885bdd026b5c026d25" version="1">Off Hand Gunjitsu Attack</content>
+	<content contentuid="hbebc3d26c9d94496b9d555b4509cf754b3e8" version="1">Gunjitsu Dual Attack</content>
+	<content contentuid="h81120a54b8d14491b2c3c1ef8dc60c4857d8" version="1">Gunslinger Rifle</content>
+	<content contentuid="h16854fe6976d4d42ad0409ea97a95d14d3a9" version="1">This is my rifle, there are many like it but this one is mine.</content>
+	<content contentuid="hc1ab589e6b4742969c1b47a1879016d3d586" version="1">Dirge</content>
+	<content contentuid="ha9c04259e4b249349b4a5ad27a5239864f7g" version="1">Dirge</content>
+	<content contentuid="hb13380c0645b4fba91c9017e3fedaa704c25" version="1">Gunslinger</content>
+	<content contentuid="h44d0f5be05ca4494929f1667bed93a58gd36" version="1">Gunslinger</content>
+	<content contentuid="h3cbadeaa7b5c49e8942201568b60dffb21cf" version="1">Gunzerker</content>
+	<content contentuid="h49a00e257b7f4b7b899cf80b2940ea54c46b" version="1">The Gunzerker wades into battle bringing fury and chaos.</content>
+	<content contentuid="h10ee2392a5a54b508b1cb34d90e927a5f321" version="1">Gun Mage</content>
+	<content contentuid="h47704ff55f764bd5ad419691421509df7e4e" version="1">The Gun Mage uses their Ka to imbue their weapons with devastating effects.</content>
+	<content contentuid="h3229c13832744fe0b50c0b13649395674f17" version="1">Gun Saint</content>
+	<content contentuid="hc5fb68ce52544ed6ae86522ffeddf6a35g8f" version="1">The Gun Saint uses their Ka to heal and support their friends while controlling and debilitating their enemies.</content>
+	<content contentuid="h440988293d4448c19c23b1207bc74930275g" version="1">Gunslinger Shotgun</content>
+	<content contentuid="h45fcbf60ebd24e8683b1a9896e7ceaebc866" version="1">This is my BOOM stick!</content>
+	<content contentuid="h0f6167c36f314df2b94c0fcbd51dd8e5c3f4" version="1">A large two handed sword with gun parts attached to it.</content>
+	<content contentuid="hc6ed14902ad645a18e598b49605d708e7b31" version="1">Gunzerker Greatsword</content>
+	<content contentuid="h455bc5f7406040bbbc9e3d99795ea6469899" version="1">Opportunist</content>
+	<content contentuid="h2cdb82120c9843a6b850f6068b8e63d9599f" version="1">Deal [1] extra die of damage on &lt;LSTag Tooltip="CriticalHit"&gt;critical hits&lt;/LSTag&gt; with ranged weapons.</content>
+	<content contentuid="hc58eea3532ba4e2a817c5663fa2525660g47" version="1">Deal [1] extra dice of damage on &lt;LSTag Tooltip="CriticalHit"&gt;critical hits&lt;/LSTag&gt; with ranged weapons.</content>
+	<content contentuid="h16b8a3ad16844d6caf4094d06f2d6765g112" version="1">Gunslinger Precision</content>
+	<content contentuid="h7dd6de22d57f4a9eaad6bdcada5d8078d673" version="1">Resonating Ka</content>
+	<content contentuid="hdb2aa211732743309baf99f1af859b86e88a" version="1">The Ka within the affected entity is resonating. Use &lt;LSTag Type="Spell" Tooltip="Target_KaResonation_Blast"&gt;Ka Resonation: Blast&lt;/LSTag&gt; to make it explode.</content>
+	<content contentuid="hf132fed9287a4dfeb6bd804b36d1152102a2" version="1">Ka Resonation: Shot</content>
+	<content contentuid="h5f7da294dd1444009bc8ddb42c034cec196d" version="1">Shoot a creature with a Ka imbued shot, making the Ka in its body &lt;LSTag Type="Status" Tooltip="KA_RESONATION"&gt;Resonate&lt;/LSTag&gt; with yours.</content>
+	<content contentuid="h4e54008041be4dd28ff4eb0ed8348ff9d05g" version="1">You can then make the Ka explode with &lt;LSTag Type="Spell" Tooltip="Target_KaResonation_Blast"&gt;Ka Resonation: Blast&lt;/LSTag&gt;.</content>
+	<content contentuid="h9e2458804bba4721be38c268a1a39b2d1gd1" version="1">Ka Resonation: Shot (Bonus Action)</content>
+	<content contentuid="hd7f17ee8957544aaa5dbb0f21f2b9ba545b9" version="1">Ka Resonation: Blast</content>
+	<content contentuid="h2b80ece207ae4bf5825e5c9725993a29d427" version="1">Detonate the Ka of a creature &lt;LSTag Type="Status" Tooltip="KA_RESONATION"&gt;Resonating&lt;/LSTag&gt; with you, hitting the creature and any non-allied entities within [1] of it.</content>
+	<content contentuid="h8c0ca637d24d436b99d95c5cb2ae343dga2b" version="1">The resulting explosion causes any nearby creatures Resonating with you to also detonate.</content>
+	<content contentuid="h306528e5e2f349ebb1922586401980c9951c" version="1">Gunslinger Vigor</content>
+	<content contentuid="h41b17c54e6a34d06a2b32772cd9298cc2807" version="1">You are immune to the effects of lethargy after haste expires.</content>
+	<content contentuid="h351674931dcf422084d7dbd3f196d8a5d0eg" version="1">Ka Conduit</content>
+	<content contentuid="hfc71637aba9f47d78f317b0463e7b0524ge2" version="1">At the start of combat you regenerate 4 Ka.</content>
+	<content contentuid="hfdc2c7e442ce4bb7b09b7098ddad6c715e1g" version="1">Gunslinger Escape</content>
+	<content contentuid="h1992ff8e7a23478a9583a831f562eb7adbd6" version="1">You can use your action to spend 4 &lt;LSTag Type="ActionResource" Tooltip="Ka"&gt;Ka Points&lt;/LSTag&gt; to become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; for 10 turns. During that time, you also have &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; to all damage but force damage.</content>
+	<content contentuid="h8829c5a24b4b4f3ca08ca32c01a1e83535ac" version="1">You become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; and gain &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; to all damage but force damage.</content>
+	<content contentuid="h9a508fb667c7424094995d1b31895d674282" version="1">This entity is &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistant&lt;/LSTag&gt; to all damage except force damage.</content>
+	<content contentuid="hde372638g0105g4af3g9327g9b52d4dd2997" version="1">Stalwart</content>
+	<content contentuid="h8e000d8eg510eg40e9g8a27g35b319b066c3" version="1">The weapon's enchantment level increases progressively by +[1] at levels [2], [3] and [4] of your character.</content>
+	<content contentuid="heb72cdbae03243a0872b962d159431c0gfec" version="1">Finger Gun</content>
+	<content contentuid="hd4415b4deb684780910089bfd1fcd4230cbb" version="1">This is the preferred weapon of a practicioner of the Way of the Gun</content>
+	<content contentuid="ha35645a0da7e44d58ea7a0811c576bdea70e" version="1">Gunslingers Weapon Bond</content>
+	<content contentuid="hec857c57dd5d47bda12da9d0398931eb397e" version="1">You have bonded with your firearm(s). You can now imbue your abilities upon them. You also cannot be disarmed.</content>
+	<content contentuid="h7ac5b48fge8acg426bg8b8eg1f43a55589b5" version="1">Supreme Healing</content>
+	<content contentuid="hbb540523g3773g4816g9630gd3a17e1242a7" version="1">When you would normally roll one or more dice to restore &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; with a spell, you instead use the highest number possible for each die.</content>
+	<content contentuid="h89a1e67bdf9c4f068174ae9d4ed34defg80d" version="1">Gunslinger Imbue Mastery</content>
+	<content contentuid="h79084a16c7dd4ff384351a3304b3bd2829f4" version="1">You improve your firearm imbue speed. You cast your imbue cantrips and spells with no action requirements.</content>
+	<content contentuid="hea96bae904264788895a34f20fd5ec16b451" version="1">Imbue your firearm with Acid Splash.</content>
+	<content contentuid="h8da752cdd9054b36bcdd7d1abb882bacdd4a" version="1">Imbue your firearm with Bone Chill.</content>
+	<content contentuid="hc88a335fgbf51g4442gb938gf032307ebca8" version="1">Imbue your firearm with Acid Chromatic Orb.</content>
+	<content contentuid="h5b5ad4c6gf4f8g4208g8ddcg6876fdf1447d" version="1">Imbue your firearm with Fire Chromatic Orb.</content>
+	<content contentuid="h055e82d3g0c8fg4e7agb8d0g903081457620" version="1">Imbue your firearm with Cold Chromatic Orb.</content>
+	<content contentuid="h007ba077g6dd6g4476g8622gca3311b99f56" version="1">Imbue your firearm with Lightning Chromatic Orb.</content>
+	<content contentuid="h7b8b3d62gffa8g4be8gac27g5a9c413f0fce" version="1">Imbue your firearm with Poison Chromatic Orb.</content>
+	<content contentuid="h0c52e147g5143g40e7ga9dag8f10f86b0f63" version="1">Imbue your firearm with Thunder Chromatic Orb.</content>
+	<content contentuid="h0191712fc86545e38357e4b38b55ed4619da" version="1">Imbue your firearm with Eldritch Blast.</content>
+	<content contentuid="hdc86c20c99a84f89b279cf8e3a8a0b45478g" version="1">Imbue your firearm with Fire Bolt.</content>
+	<content contentuid="he089f1efe438418084d9145b1d0a8ea4ga4b" version="1">Imbue your firearm with Poison Spray.</content>
+	<content contentuid="h27fbf3ae13f542bcb7004b352c52c8d7gg2b" version="1">Imbue your firearm with Ray of Frost.</content>
+	<content contentuid="h86c9f5a402524d658ec517f0881abaffcd2g" version="1">Imbue your firearm with Sacred Flame.</content>
+	<content contentuid="heeaa73b0g5ea6g4ac9g8634g595ba38b82bb" version="1">Imbue your firearm with Shocking Grasp.</content>
+	<content contentuid="hf8a9ad31g8aa0g4addg9d6fgf743e9895da8" version="1">Imbue your firearm with Vicious Mockery.</content>
+	<content contentuid="h87db9a41gd98fg4ef4gb01cg781a6f1f79a8" version="1">Imbue your firearm with Sleep.</content>
+	<content contentuid="h65aaeab9g0e6dg4795gbc7ag11454786c37f" version="1">Imbue your firearm with Burning Hands.</content>
+	<content contentuid="h45c95e88g73a9g4252ga988gfc367dffece0" version="1">Imbue your firearm with Magic Missile.</content>
+	<content contentuid="h5cdac49dg0385g4adag8178gcabf084a0448" version="1">Imbue your firearm with Thunderwave.</content>
+	<content contentuid="hd750277dgf5cag4a2cga262g7cb821373e63" version="1">Imbue your firearm with Witch Bolt.</content>
+	<content contentuid="h3a1d4fdbg166cg4fafg8c35gc95e83f5ae4b" version="1">Imbue your firearm with Color Spray.</content>
+	<content contentuid="h6f35b8e7ga6fag408cg8798gf20ee0912fb2" version="1">Imbue your firearm with Ray of Sickness.</content>
+	<content contentuid="hbbb53b62g1c90g40d2gbbe0g34ac606aa9b7" version="1">Imbue your firearm with Ice Knife.</content>
+	<content contentuid="h5f7bc9fagf07bg4ab3g97b3g20d9b9a10efb" version="1">Imbue your firearm with Blindness.</content>
+	<content contentuid="h822860f5gcd15g478egb517g6d376ac547cf" version="1">Imbue your firearm with Crown Of Madness.</content>
+	<content contentuid="hd1ca0731gb863g4c90g9f20g357139740924" version="1">Imbue your firearm with the Reduce effect.</content>
+	<content contentuid="h57a553c2ge6e4g4d6dgb3f3gb88e2f2c05ec" version="1">Imbue your firearm with HoldPerson.</content>
+	<content contentuid="h0e32cd29g77ffg45c8gb331ga160807f2267" version="1">Imbue your firearm with Phantasmal Force.</content>
+	<content contentuid="h95cc9483g35e7g457bg93e4g8b8c850e4ed9" version="1">Imbue your firearm with Scorching Ray.</content>
+	<content contentuid="h3f0d931agbf69g4917g95e1ge08eea94f100" version="1">Imbue your firearm with Shatter.</content>
+	<content contentuid="he81ae051ga173g4bbcg8e51g92f8c3c94e92" version="1">Imbue your firearm with Fear.</content>
+	<content contentuid="h234dc7bdg7d33g4271gbf37g7751bb0c9185" version="1">Imbue your firearm with Fireball.</content>
+	<content contentuid="ha429b72dg0d0eg4a9cgb309gda1d942aba9f" version="1">Imbue your firearm with Hypnotic Pattern.</content>
+	<content contentuid="h2dbdadbeg875eg449bg80c8g282976c76117" version="1">Imbue your firearm with Lightning Bolt.</content>
+	<content contentuid="hc79dcef2g2e06g43c7g8cc1gfe86bbff1aa6" version="1">Imbue your firearm with Sleet Storm.</content>
+	<content contentuid="hc814fd6cg0705g4928g9ef7g443210883235" version="1">Imbue your firearm with Slow.</content>
+	<content contentuid="ha2e6b8acg867eg4667gbfcfg604b72140ece" version="1">Imbue your firearm with Blight.</content>
+	<content contentuid="h7f9ea827g20c4g4fc5gbaa1gbeb723e85215" version="1">Imbue your firearm with Ice Storm.</content>
+	<content contentuid="hb0405eedgeb1cg4484g9f19g1b325b2f6078" version="1">Imbue your firearm with Wall of Fire.</content>
+	<content contentuid="hc426dd84gba46g4103g9feagc182397e13b3" version="1">Imbue your firearm with Cloudkill.</content>
+	<content contentuid="hfff9c68bgc9dfg4cb4g8f42gf4449f18e267" version="1">Imbue your firearm with Cone of Cold.</content>
+	<content contentuid="h2e5d3b30gd621g4221ga9b3gc42b3c5356ec" version="1">Imbue your firearm with Insect Plague.</content>
+	<content contentuid="hc940348596cd4daf8ce1b588ec6d0a5e3614" version="1">Imbue your firearm with Cure Wounds.</content>
+	<content contentuid="h3732af92g1fbbg4afdgb4c9g793b20ea57b8" version="1">Imbue your firearm with Guiding Bolt.</content>
+	<content contentuid="h80240059g618dg4414gba21g0d376ffc1d0c" version="1">Imbue your firearm with Inflict Wounds.</content>
+	<content contentuid="h3ff2683bg9345g4effg9d9fg0adc3e539509" version="1">Imbue your firearm with Bane.</content>
+	<content contentuid="h765091begd338g4d86g8f88ge42cc618679e" version="1">Imbue your firearm with Silence.</content>
+	<content contentuid="h69d4fd44g5a0eg473dgae78g5d958aa03676" version="1">Imbue your firearm with Strength Curse.</content>
+	<content contentuid="hc4da6a9eg909bg44b6g9429g909bf28ce60d" version="1">Imbue your firearm with Dexterity Curse.</content>
+	<content contentuid="h94391574g5158g4424g8936g64b9cc1407d8" version="1">Imbue your firearm with Constitution Curse.</content>
+	<content contentuid="hcb3d3ebdgbcddg4ebbgb012g64df4cc674a3" version="1">Imbue your firearm with Intelligence Curse.</content>
+	<content contentuid="haba7004fg2a05g413fg80dag6c83598c7b66" version="1">Imbue your firearm with Wisdom Curse.</content>
+	<content contentuid="heb6f4745g9486g4139ga020ge33a6915ebab" version="1">Imbue your firearm with Charisma Curse.</content>
+	<content contentuid="hec6a9bddg1b1dg4854g8a9fgfa33ca9ce6dd" version="1">Imbue your firearm with Attack Curse.</content>
+	<content contentuid="h6e5bb344gd6a9g4ce9gb0e8g4d38b3ba73c1" version="1">Imbue your firearm with Extra Damage Curse.</content>
+	<content contentuid="h7e59aa16g2bc3g4a78g8628gb2af49ba94d1" version="1">Imbue your firearm with Skip Turn Curse.</content>
+	<content contentuid="h9c12f7e1g43efg4e92g9b7cg84e848048a49" version="1">Imbue your firearm with Flame Strike.</content>
+	<content contentuid="h37d46a20g0646g4047gaf74g29b24cea4210" version="1">Imbue your firearm with Charm Person.</content>
+	<content contentuid="h1d213d7bg663bg45f8g9f64g3d7b8de2e3fa" version="1">Imbue your firearm with Command(Halt).</content>
+	<content contentuid="hcb19d70cg80aag493agad29g6cbcde100406" version="1">Imbue your firearm with Command(Drop).</content>
+	<content contentuid="h0381fc8eg23cdg49d2g8859ga36a36069ab3" version="1">Imbue your firearm with Command(Flee).</content>
+	<content contentuid="h55a159b4g6d8ag4523gb5b7gc7c30d0bcd5b" version="1">Imbue your firearm with Command(Grovel).</content>
+	<content contentuid="h52c281e4g32c7g4896g87e7gba0e475a90aa" version="1">Imbue your firearm with Command(Approach).</content>
+	<content contentuid="h448f99c9ga4f1g44b5gaceagf6af8aa22bd8" version="1">Imbue your firearm with Stinking Cloud.</content>
+	<content contentuid="he5beadfag8969g4b2bg8454g044ab77ea51d" version="1">Imbue your firearm with Banishment.</content>
+	<content contentuid="h47022a6fg43e2g4565g985dg113be9c2f3f9" version="1">Imbue your firearm with Confusion.</content>
+	<content contentuid="ha02e4d51gc716g4600gbdc0g062ab73b5203" version="1">Imbue your firearm with Polymorph.</content>
+	<content contentuid="h30f31ddeg5da8g40bag934bg6ed41ab99b6c" version="1">Imbue your firearm with Hold Monster.</content>
+	<content contentuid="h7624bf78gaf8cg4d4eg9fbbg87b8d51a880c" version="1">Imbue your firearm with Planar Binding.</content>
+	<content contentuid="hdd3955a2g8f40g49acgb01eg55d64879a5fe" version="1">Imbue your firearm with Blade Barrier.</content>
+	<content contentuid="hb4420895g1385g4d52g99c7gd84f2e8e31ba" version="1">Imbue your firearm with Chain Lightning.</content>
+	<content contentuid="hf284fb94ga68cg41f9g9543g58765396961a" version="1">Imbue your firearm with Circle Of Death.</content>
+	<content contentuid="h56e6e58egae61g4a44g8ba9gdae2d1425e09" version="1">Imbue your firearm with Disintegrate.</content>
+	<content contentuid="hd69e5e2agc943g4b8cg8550g694124acf1f8" version="1">Imbue your firearm with Eyebite(Sleep).</content>
+	<content contentuid="h14cca213gb0abg48efg8ae5g896203006daf" version="1">Imbue your firearm with Eyebite(Panicked).</content>
+	<content contentuid="h511fd400g9ce9g4518gb067ga0025527741b" version="1">Imbue your firearm with Eyebite(Sickness).</content>
+	<content contentuid="h5f3f26b3g3cc9g482bg8f6cg9fe70684a56d" version="1">Imbue your firearm with Harm.</content>
+	<content contentuid="hfe1fa99eab424edc92cf324a26a8d4586131" version="1">Gunslinger Enchanted Revolver</content>
+	<content contentuid="h2e23634304014331a593c72f7fe3c6d3dbdc" version="1">Gunslinger Enchanted Revolver</content>
+	<content contentuid="h9a1ec69eaf5447e5b61039f27e746740e6a7" version="1">First comes smiles, then lies. Last is gunfire.</content>
+	<content contentuid="h270ea66c9ae44d71b6af1a3677d488432ed7" version="1">First comes smiles, then lies. Last is gunfire.</content>
+	<content contentuid="ha495c31e059245889d97b96ebe2cf10f6c18" version="1">Gun Mage Rifle</content>
+	<content contentuid="h75a28ebd1eed4a27a084b34f1d2af033d0ee" version="1">Gunslinger Ascetic</content>
+	<content contentuid="h0d125569e04949ba9db06390c8cfec4476bb" version="1">If you are a Dirge, Mage, or Saint you use your &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="ha960da7995bd487a856ff6a040cafb829803" version="1">Dirge Revolver</content>
+	<content contentuid="hb86b61364315441eb2333cc67c6d615bb1ec" version="1">Gunslinger Revolver</content>
+	<content contentuid="ha18ee994e1584fa09f9a68cb7c0779e04d9b" version="1">Gun Saint Revolver</content>
+	<content contentuid="hb1d6d10d4d514d9fab50aa89a822acdcc260" version="1">Gun Saint Rifle</content>
+	<content contentuid="hacf52c81e2664a4eac70336dd2d4199de9a5" version="1">Dirge Rifle</content>
+	<content contentuid="h44eca3a35f9f47ea8eb1f5853422cec72149" version="1">Gun Mage Revolver</content>
+	<content contentuid="h01c7ca085b134bf3974fa2b6fa50718497g0" version="1">Gunjitsu Kick</content>
+	<content contentuid="ha6f9d52694484ab79aad1a41a34095a0ff31" version="1">A quick roundhouse kick to knock your enemy back.</content>
+	<content contentuid="hfa71917f50e24dcfafe6a7c083f1f9ef806f" version="1">Smoke Bomb</content>
+	<content contentuid="h981e685c834747859b0dc0f7a0284a89b7c0" version="1">Drops a smoke bomb at your feet which turns you invisible for 3 turns and makes a small fog cloud to obscure enemy sight for 2 turns.</content>
+    <content contentuid="h5e4a2d103f3447809fee4b03792fee9a94d9" version="1">Rage Overheat Aura</content>
+    <content contentuid="h0a31d72662374d789184bf5fada87787cg04" version="1">All enemies within 3m take 1d4 fire damage per turn.</content>
+    <content contentuid="hbbc868030a0441279ae7b10547f5114fe8ce" version="1">You are engulfed by a vengeful fire that does not harm you. Enemies within 2m take [1] each turn. You can use &lt;LSTag Type="Passive" Tooltip="MAG_Fire_Heat_Convergence_Passive"&gt;Overheat Convergence&lt;/LSTag&gt;.</content>
+    <content contentuid="h7393901049514d6ab4f0aa7d11125a7f5cg0" version="1">Firey Rage</content>
+    <content contentuid="hd689204047494704adce6b885d93d503c757" version="1">Deal [1] extra damage with melee and improvised weapons, and throwing. Your body becomes superheated. When your rage ends all unused stacks of overheat are discarded.</content>
+    <content contentuid="h6164406333314d50aa0883213e9b1544fa3f" version="1">Gunzerker Overheat</content>
+    <content contentuid="hb419fcba39c14650bf640126f95b88efce78" version="1">Engulfed by a vengeful fire, all enemies within 3m take 1d4 fire damage per turn. You can use &lt;LSTag Type="Passive" Tooltip="MAG_Fire_Heat_Convergence_Passive"&gt;Overheat Convergence&lt;/LSTag&gt;.</content>
+    <content contentuid="h6a2e73877e0145b88ea5d7ef611bc4a2a55a" version="1">Piercing Flame</content>
+	<content contentuid="hf274e2a9gb4fbg47d1ga15eg2e3a24d981fd" version="1">Piercing Flame (Shotgun)</content>
+    <content contentuid="hb892cd2277074b97bd0c04e5b5ba9e7a536d" version="1">Fires a red hot high velocity round in a [1] long line. Each creature in that line must make a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; to avoid taking full damage.</content>
+    <content contentuid="h91b9eeb195264462b5fc038746d1606c1509" version="1">Fire Blast</content>
+	<content contentuid="ha896275eg58f8g4f26g82eag9cf6c28599fd" version="1">Fire Blast (Shotgun)</content>
+    <content contentuid="h29574e7d8388430fbc83f1e89ec95cdc218b" version="1">A short range fire cone attack.</content>
+    <content contentuid="h63a00600122841239682fbbf50384d93ege8" version="1">Firebrand</content>
+    <content contentuid="hd1aed81199024335ae4ad037ec2ad61709a8" version="1">Your abilities ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to fire damage. In addition, when you deal Fire damage, you cannot roll a 1.</content>
+    <content contentuid="h023fb43715014d3b961693a01df4a59b7c6e" version="1">Fire Leap</content>
+    <content contentuid="h0b4a491424214bf193b91167a91cd172a5ed" version="1">Superheated air collects under you, buoying you high into the sky before you plummet back down in a fiery comet. You Fly 15 feet straight up into the air, then Fly in a straight line to an empty space of your choice on the ground within 60 feet. When you land, the blistering air blasts out from you, dealing [1] and [2] to all creatures within 3m.</content>
+    <content contentuid="h65c76d9cc27346c798d5366ac6c1df75cd47" version="1">Firey Frenzy</content>
+    <content contentuid="he3efb60f34e94cbda9c6577c90a47b7e3d0d" version="1">Your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; turns into a frenzy! You gain &lt;LSTag Type="Spell" Tooltip="Target_FrenziedStrike"&gt;Frenzied Strike&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Throw_FrenziedThrow"&gt;Enraged Throw&lt;/LSTag&gt;. You can also make an &lt;LSTag Type="Spell" Tooltip="Throw_ImprovisedWeaponBerserker"&gt;Improvised Weapon Attack&lt;/LSTag&gt; as a bonus action. When your rage ends all unused stacks of overheat are discarded.</content>
+    <content contentuid="h38cd3384e08b42e59eb99cc5a42da53212g5" version="1">Chill of the Grave</content>
+    <content contentuid="h0fc85bef9b0d401fa9a520c1d23b6cb2bac1" version="1">A shot range necrotic cone attack.</content>
+	<content contentuid="hfcc9b63f5da64ee29c18deeab0d990ecaae4" version="1">Piercing Death</content>
+    <content contentuid="hd7afc4035c9a4219bb6c78770631371c77a3" version="1">Fires a necrotic high velocity round in a [1] long line. Each creature in that line must make a &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; to avoid taking full damage.</content>
+    <content contentuid="hdb630b0507024714b472c99698c8c6735gd1" version="1">You channel your willpower into a powerful shot that heals an ally for 33% of their max HP, this will even bring a dead companion back to life.</content>
+    <content contentuid="hdd804d21aed64df0a563a1bc8b3c7c6638bc" version="1">Overchannel</content>
+    <content contentuid="h66889ece4dd242d08db9b498cced48180106" version="1">You can increase the power of your simpler spells. When you cast a spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell. The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take [1] for each level of the spell, immediately after you cast it. You take an additional [2] per spell level with each subsequent cast.</content>
+    <content contentuid="h9316de40510f46098cf0d03b51dde8ff083b" version="1">Gunslinger Senses</content>
+    <content contentuid="h59416f042da44e1ab1e392cb9504bcdfd189" version="1">You are able to see &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; creatures up to [1] distance.</content>
+    <content contentuid="hb1db32b483124064a61ea43631158a912faa" version="1">Elusive</content>
+    <content contentuid="h2defe7f9e0d84f1c9d2a1956a5ad228ccf46" version="1">You are so evasive that attackers rarely gain the upper hand against you. No &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against you while you aren't &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;.</content>
+    <content contentuid="h7733531552bf48e1b81f5f64083494ead9ef" version="1">Persistent Rage</content>
+    <content contentuid="hcc948549ad144aa28726c211325c4b16g37d" version="1">Your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; is so fierce that it ends early only if you fall &lt;LSTag Type="Status" Tooltip="UNCONSCIOUS"&gt;Unconscious&lt;/LSTag&gt; or if you choose to end it.</content>
+    <content contentuid="h1b352c9496104e0f8a832ebaf50ae67d6ad5" version="1">Indomitable Might</content>
+    <content contentuid="hd213c5e9fffa4466b79a101c27e20add98de" version="1">When you make a Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, you can roll twice and use the higher result.</content>
+    <content contentuid="hbc3172fd03804611b0ef52286a2665614g8a" version="1">Primal Champion</content>
+    <content contentuid="h80976affc7d84bdba880d5d277130444eb78" version="1">Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.</content>
+    <content contentuid="h316538562a904c539c13b27e92c6323f5848" version="1">Gun Saint Healing Shot</content>
+    <content contentuid="h4d4d0476f5524246966b3b1cfcdd7e6a35b3" version="1">This shot will heal allies, the healing scales with your level.</content>
+    <content contentuid="h41c83ce17c2e4e34b80985621d9f837136g5" version="1">Gunslinger Weaponry Chest</content>
+    <content contentuid="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1">Ka is a wheel</content>
+    <content contentuid="hd80c723e67b242fab3fb785419ea905d6a00" version="1">Shotgun Slug</content>
+    <content contentuid="hf2ab1771f958470b84fb3321f7ed50d324ff" version="1">A single solid slug, an alternative to the normal cone fire pattern. Does damage to a single target.</content>
+    <content contentuid="he86189f3eb604bd59ae72239dc5d56491c34" version="1">Shotgun Blast</content>
+    <content contentuid="h8fdec07238274744ab7869921854867101a0" version="1">A regular cone type spray pattern attack. Does 1/2 damage to all enemies in the cone.</content>
+    <content contentuid="h3ea7de82e529460da15cee333901ea4450d8" version="1">Shadow Strike</content>
+    <content contentuid="ha1b04c3fc72b475fb88292dcd7ba4758bcab" version="1">An attack that teleports you to three different targets and does a close ranged attack on each one.</content>
+    <content contentuid="h5816fa20656b43e0b05a1a16f61e66493d15" version="1">Gunslinger Mainhand Attack</content>
+    <content contentuid="h60d57e3795784bae8d6bedd5502756316810" version="1">Gunslinger Offhand Attack</content>
+    <content contentuid="h08bc52a06f8c4c61b5f662e5b92e96e3bfa4" version="1">Back Sheathe</content>
+    <content contentuid="h2f0a8106d0804d6d8d20f4270e8b6b104ag2" version="1">Hip Sheathe</content>
+    <content contentuid="h2469a51ca00e4effb82d062c8637cb143274" version="1">This weapon sheathes in the default back location.</content>
+    <content contentuid="h81a4c91298444902a39ef72cca74b43629d7" version="1">This weapon sheathes at the hip.</content>
+    <content contentuid="h30df0008ca7f4321a8b188afaca211a4175c" version="1">Restricted</content>
+    <content contentuid="h09cbf12e582e4f538da4b7b050ee6922ffge" version="1">This weapon can only be wielded by a Dirge, the attack rolls use Charisma.</content>
+    <content contentuid="h149a4a0630c543a5a6042dd79b9173630ag4" version="1">Restricted</content>
+    <content contentuid="h563668ab46c541ce9fb26bc9cb69531b10f8" version="1">This weapon can only be wielded by a Gun Mage, the attack rolls use Intelligence.</content>
+    <content contentuid="h7423cf8b78084d2d88302d3b174237ce92b0" version="1">Restricted</content>
+    <content contentuid="hd35a20856e724b19a0379175737fb8b25f2e" version="1">This weapon can only be wielded by a Gun Saint, the attack rolls use Wisdom.</content>
+    <content contentuid="h94179debec66413484356808e5f5c9e899f9" version="1">Gunzerker Blade of Eld</content>
+    <content contentuid="h503441414c284fa8bb4313359a847919a1ga" version="1">Witch Hunter</content>
+    <content contentuid="h5b33866f3b784ceeaef7ab63f4997c35dc0a" version="1">Corpsemaker</content>
+    <content contentuid="hba96812a22de4ab89e469c62c285ff275162" version="1">Gunslinger Weapons</content>
+    <content contentuid="h0a7373f8a4e3415c9b44cb7dc11a61f7a9b5" version="1">Dirge Weapons</content>
+    <content contentuid="h3fd5c0aaaea245278052aaeb3dd2031eee47" version="1">Gunbreaker Weapons</content>
+    <content contentuid="h16c883af127a4bb0a6b87574f2cad11b3909" version="1">Gun Mage Weapons</content>
+    <content contentuid="h9ebce59c87444a6b95613cf06f8361bb8f31" version="1">Gun Saint Weapons</content>
+    <content contentuid="h09aadc8244764dff8c26004c2ae75dd46a22" version="1">Gunzerker Weapons</content>
+    <content contentuid="hd28bd184706842da9c16c0947e314d903g5f" version="1">Way of the Gun Weapons</content>
+    <content contentuid="h5cc561f9b849485f854eb902b367306e0221" version="1">Armament of Eld1</content>
+    <content contentuid="hf16e79877d4e4233a15b6767cd3daca246b5" version="1">Aim true.</content>
+    <content contentuid="h6610c1ce58194739a2de1735739c237d3gf9" version="1">Armament of Eld</content>
+    <content contentuid="h49a4aa280ff9471fbc7743327b0d22861885" version="1">Gunbreakers Gunblade</content>
+    <content contentuid="h32daf0b4e7b049b0bb72c5036fd65026f45f" version="1">Gunblade of Eld Description</content>
+    <content contentuid="h7a238dc0c9f1476385328ce59960e87dg842" version="1">Flintlock Rifle</content>
+    <content contentuid="h35bd445c0b754daca5801b9decbd3a67b673" version="1">Flintlock Rifle Description</content>
+    <content contentuid="h412e1a279f88469b8da8e65a8f160373bbd3" version="1">Lever Action Rifle</content>
+    <content contentuid="h2ca6ab61375d40ff97e17e353353547ea132" version="1">Lever Action Rifle Description</content>
+    <content contentuid="hfc8ca9b0ab964e6984d77a257476b8426116" version="1">Pump Shotgun</content>
+    <content contentuid="hb3504d3054f94c9eac06f5880204c07500a6" version="1">Pump Shotgun Description</content>
+    <content contentuid="h851ebf576551480cbcc46a4b0b7df39cge01" version="1">Blunderbuss</content>
+    <content contentuid="h52f3976930eb4b349c560ae2e0aac958a5d5" version="1">Blunderbuss Description</content>
+    <content contentuid="h4e26f5750a8f42468dc6ef478bb99a39f4c6" version="1">Drakefire Blunderbuss</content>
+    <content contentuid="h94da9cab7dfe4f118d61f748998a95822815" version="1">Drakefire Blunderbuss Description</content>
+    <content contentuid="h20879689212d4aaab64249cb51b859409139" version="1">Drakefire Pistol</content>
+    <content contentuid="hbb5885a690dc48beb0c4f099486a3ea25477" version="1">Drakefire Pistol Description</content>
+    <content contentuid="h344508d421334bd4af4ad053a15a4bab3eg5" version="1">Steam Carbine</content>
+    <content contentuid="h6c9d34b4d1094b99b1c305eca2fa65a5g38a" version="1">RESTRICTED</content>
+    <content contentuid="h077797da69a64d928c42936520baa7ead22b" version="1">This weapon can only be wielded by a Gunslinger.</content>
+    <content contentuid="h09d6442bc8b649318f07bf3fc9e5f8db32a6" version="1">Gunslinger Armory Chest</content>
+    <content contentuid="h2a48b4c3041346b6ad5c61c546fc482c35c4" version="1">Dirge Armory Chest</content>
+    <content contentuid="h42ab0ef492704ad8b4c52a4cb2cbdffec495" version="1">Gunbreaker Armory Chest</content>
+    <content contentuid="hc179342098bf4f6e91bc98178dd0bbe36b18" version="1">Gunzerker Armory Chest</content>
+    <content contentuid="h62fe55112da642ec9540e253e46841f990ef" version="1">Way of the Gun Armory Chest</content>
+    <content contentuid="hb9e41ab0ed1c43f39b4cb95bda2e5fb2cgg9" version="1">Gun Saint Armory Chest</content>
+    <content contentuid="he0c135e240a14d768eb2d8eccbba1785a4bf" version="1">Gun Mage Armory Chest</content>
+	<content contentuid="h9feb2a57c99b4983bd9fffa6f1f3ea71e2b7" version="1">Summons a chest containing level scaling weapon(s) for your Gunslinger subclass.</content>
+	<content contentuid="h9feb2a57c99b4983bd9fffa6f1f3ea71e2b7" version="1">A chest containing level scaling weapon(s) for your Gunslinger subclass.</content>
+    <content contentuid="h619de10a3e704dcaba6ead875d84ce0dc214" version="1">Temporary Armory Chest</content>
+	<content contentuid="he53804283105461086aeaa8f3a3f22198g82" version="1">The chest and all its contents will disappear after 5 turns.</content>
+    <content contentuid="h8e001ea7796a47c2990bb1a6d5e540e018b1" version="1">Steeled Concentration</content>
+    <content contentuid="hac1b4eabbbf14dc084a11849b84e4fc5efb6" version="1">Your experience in battle has made you better able to maintain your concentration under most circumstances. You get &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on concentration saving throws.</content>
+    <content contentuid="hfba792d35049460ca7075a2972642bb4gc5f" version="1">McCree's Revolver</content>
+    <content contentuid="ha531a595dd0f44e9bdc781f9a7275a481c38" version="1">Ace of Spades</content>
+    <content contentuid="hdf1e7f976abb4702b7daf5679ae4dd661567" version="1">The Rose</content>
+    <content contentuid="he351083b925c4582804522c7f296b1995f9g" version="1">Thorn</content>
+    <content contentuid="h3d74e3c8dc1242f39acb0b2f8db021f9bbda" version="1">Born to lose. Live to win.</content>
+    <content contentuid="h254dced0220d4f1d9daf6ce75c7bee1695ff" version="1">Deadeye</content>
+    <content contentuid="h44084258f0554ef4b6cff04ef88ddd72d82g" version="1">The Deadeye is a master of subterfuge and long distance highly accurate and damaging shots. When the Deadeye is flanked they have several ways of getting out of a bad situation and back to shooting from range.</content>
+    <content contentuid="h681a3ae4f7514c56b01d5851893d6d32g7ef" version="1">Deathwish</content>
+    <content contentuid="h3d90c27374d045cbbf2b7dd927d5fe037f96" version="1"></content>
+    <content contentuid="h643fd16b9efe41a48c8dca0253ae304e2e3f" version="1">Deadeye Armory Chest</content>
+    <content contentuid="h9141015e62be41fa93e8730fe0275fdfddf1" version="1">Heartpiercer</content>
+    <content contentuid="hfb9ecc4d57ba4dbe8ce66f93717d718a2ab4" version="1">Deadeye</content>
+    <content contentuid="he07417ed206242f992132fcb7e9d3dff8dbg" version="1">Your sniper weapon attacks deal an additional [1] damage when the target is farther away than [2] meters.</content>
+    <content contentuid="hd09972ba7bc043519f4353adcd60dcb82cef" version="1">Deadeye Attack</content>
+    <content contentuid="hf3d36c0cc7764e789e67113aceb9c2fb8b46" version="1">Your sniper weapon attacks are at disadvantage and deal half damage when your target is closer than 6m. You are unable to use the sniper gun at all while flanked.</content>
+    <content contentuid="ha5514b5a4b7845f4b637dc9bb54558fb9adf" version="1">Black Powder</content>
+    <content contentuid="h4cde0c64f56244f0b96b2f3a0e145e77e585" version="1">Attack and blind an enemy within 1.5m for 2 turns.</content>
+    <content contentuid="h9c99c230099d4a79b43e200d9e5d29435421" version="1">Deadeye's Mark</content>
+    <content contentuid="h35aee632111b4b638918111ee9b0e4aadee1" version="1">Mark a creature as your quarry to deal an additional [1] whenever you hit it with a weapon attack.</content>
+    <content contentuid="h4db678a3fd8c4cdd8df860bfa2021dc94gb2" version="1">Deadeye Mainhand Ranged Attack</content>
+	<content contentuid="heec2a35a619b48b4961cb26454069b538974" version="1">Deadeye Offhand Ranged Attack</content>
+    <content contentuid="h1149fd7d3ff142e796fbd2ebc9a65dfa850e" version="1">Reapply Deadeye's Mark</content>
+    <content contentuid="h796bfa054a934cdabe8ce4fc234d384ee245" version="1">Deadeye's Mark Quarry</content>
+    <content contentuid="hbcc4b0aef276414d8e72decd0319e6dcg322" version="1">Has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. Range of attacks and spells reduced to [1]. &lt;br&gt;&lt;br&gt;Attack Rolls against Blinded creatures have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+    <content contentuid="h414c2a0d2a71426588d1aeb1c2536e9fa10e" version="1">Hunt Completed</content>
+    <content contentuid="h4a94ecc692d146f2b4aa6e0c0c41fbface84" version="1">Can use a free action to reapply Deadeye's Mark to another target.</content>
+    <content contentuid="h28d7b2acb8f342c5bf47e70613f1b673cfdg" version="1">Shift your &lt;LSTag Type="Status" Tooltip="DEADEYES_MARK"&gt;Deadeye's Mark&lt;/LSTag&gt; to a new creature as a free action.</content>
+    <content contentuid="he1a4e934051c456a9d88d20a33831eb15b23" version="1">Overkill</content>
+    <content contentuid="habf47387ee1f474a9228634394dabe4568d1" version="1">Spend 3 Ka to deal an extra [1] damage.</content>
+    <content contentuid="h28e74b07e6694419b246a63ff240a9486990" version="1">Sap</content>
+    <content contentuid="hae837fdd43ef40709050c9e219bce71daa21" version="1">Spend one Ka to give your target disadvantage on all attack rolls and ability checks until the end of it's next turn.</content>
+    <content contentuid="h1158eeae677d4e7c9760c1a91c8f1a61fdd1" version="1">Sapped</content>
+    <content contentuid="h2c08aea277ac47b38ea1992c9e0e4317gd7f" version="1">Target has disadvantage on attack rolls and saving throws until the end of its next turn.</content>
+    <content contentuid="h586f2043efb64d598864a3d3b24958ac92cb" version="1">Riposte</content>
+    <content contentuid="hb4e171587db34934831a0eff9287ca2f96de" version="1">Spend 1 Ka to retaliate when a creature misses you with a melee attack. Damage equal to a roll of your Ka die plus your Dexterity modifier.</content>
+    <content contentuid="ha3c614ae9fda4eda827a64e66a3fcc1bfgb2" version="1">Ironsides</content>
+    <content contentuid="hf70fcffeb6324a149472b9597668882c99c8" version="1">When a melee attack hits you, spend 3 Ka to increase your AC by 3 until the beginning of your next turn. If your new AC would cause the attack to miss then it misses.</content>
+    <content contentuid="h084529f792c4477c85540bfc2fb16cd07479" version="1">Kick</content>
+    <content contentuid="hf19697ebbb54424da0ff45ea04ea4da811a6" version="1">Spend one Ka to kick an attacking enemy and push them back 5 feet.</content>
+    <content contentuid="h2ddfe84d8d1242e19c2d10c595f49d4b75b1" version="1">Recede</content>
+    <content contentuid="hb5186778044e4bb1a41601c2a948515f4596" version="1">When you hit a creature with a weapon attack, you can spend 2 Ka to Shadow Step as a free action into an area of shadows in an unoccupied space that you can see, you can also Umbral Cloak as a free action once you arrive there.</content>
+    <content contentuid="h9c738828b4094c639b9224157d8c81410b00" version="1">Deadeye's Countershot</content>
+    <content contentuid="h9a8a015fa4e84db59f5d62a480dda4f34a7a" version="1">Deadeye Cunning</content>
+    <content contentuid="hc1ceb0105c93432f8db3c2e5910661231713" version="1">When you shoot a target at close range, you can spend one Ka to make a melee attack against it as a free action.</content>
+    <content contentuid="hc36874b7e2d6468c8d006d5400db5aa1f5d7" version="1">Rebuke</content>
+    <content contentuid="h9b55ce815ed149cd84820ec274bdbb282g51" version="1">Spend 1 Ka to react to your attacker by returning fire.</content>
+    <content contentuid="ha9223000f55743bb9e2d053ee8905771cd7a" version="1">Deadeye Recede</content>
+    <content contentuid="h093f7b00f62744219d420008266efd022add" version="1">Unlocks both Umbral Shroud and Shadow Step as free actions. After using Shadow Step you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next ranged &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="hb3749ed189914eadaf634bef8db025960feb" version="1">Deadeye Disadvantage</content>
+</contentList>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="320"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_Deadeye_ShadowStep_Reaction;Target_Deadeye_Riposte;Unlock_Deadeye_Ironsides;Unlock_Deadeye_SappingShot;Unlock_Deadeye_Overkill;Target_Deadeye_Kick"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="DeadeyeManeuver"/>
+                    <attribute id="TableUUID" type="guid" value="55d2e744-2a3e-4a30-b70b-d33792b43f81"/>
+                    <attribute id="UUID" type="guid" value="b93c1493-ee8b-4c51-9fa5-f255d6159309"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

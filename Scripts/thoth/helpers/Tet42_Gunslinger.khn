@@ -1,0 +1,26 @@
+local __util = require 'larian.util'
+
+function IsGSSmite()
+    return SpellId('Projectile_GS_Banishing_Shot') | SpellId('Projectile_GS_Trickshot')
+end
+
+function WeenieCheck()
+    return HasUseCosts('GSAmmo') | HasUseCosts('GSAmmoOffhand') | HasUseCosts('GB_Ammo_Mainhand') | HasUseCosts('GB_Ammo_Offhand')
+end
+
+function IsGMGSSpell()
+    return
+    SpellId('Target_GMGS_AcidSplash') | SpellId('Target_GMGS_BoneChill') | SpellId('Target_GMGS_EldritchBlast') | SpellId('Target_GMGS_FireBolt') | SpellId('Target_GMGS_PoisonSpray') | SpellId('Target_GMGS_RayofFrost') | SpellId('Target_GMGS_SacredFlame') | SpellId('Target_GMGS_ShockingGrasp') | SpellId('Target_GMGS_ViciousMockery') | SpellId('Target_GMGS_ChromaticOrbAcid') | SpellId('Target_GMGS_ChromaticOrbFire') | SpellId('Target_GMGS_ChromaticOrbAcid') | SpellId('Target_GMGS_ChromaticOrbCold') | SpellId('Target_GMGS_ChromaticOrbLightning') | SpellId('Target_GMGS_ChromaticOrbPoison') | SpellId('Target_GMGS_ChromaticOrbThunder') | SpellId('Target_GMGS_Sleep') | SpellId('Target_GMGS_BurningHands') | SpellId('Target_GMGS_MagicMissile') | SpellId('Target_GMGS_Thunderwave') | SpellId('Target_GMGS_WitchBolt') | SpellId('Target_GMGS_ColorSpray') | SpellId('Target_GMGS_RayOfSickness') | SpellId('Target_GMGS_IceKnife') | SpellId('Target_GMGS_CureWounds') | SpellId('Target_GMGS_GuidingBolt') | SpellId('Target_GMGS_InflictWounds') | SpellId('Target_GMGS_Bane') | SpellId('Target_GMGS_Blindness') | SpellId('Target_GMGS_CrownOfMadness') | SpellId('Target_GMGS_Reduce') | SpellId('Target_GMGS_GustOfWind') | SpellId('Target_GMGS_HoldPerson') | SpellId('Target_GMGS_PhantasmalForce') | SpellId('Target_GMGS_ScorchingRay') | SpellId('Target_GMGS_Shatter') | SpellId('Target_GMGS_Silence') | SpellId('Target_GMGS_Fear') | SpellId('Target_GMGS_Fireball') | SpellId('Target_GMGS_HypnoticPattern') | SpellId('Target_GMGS_LightningBolt') | SpellId('Target_GMGS_SleetStorm') | SpellId('Target_GMGS_Slow') | SpellId('Target_GMGS_BC_A_Strength') | SpellId('Target_GMGS_BC_A_Dexterity') | SpellId('Target_GMGS_BC_A_Constitution') | SpellId('Target_GMGS_BC_A_Intelligence') | SpellId('Target_GMGS_BC_A_Wisdom') | SpellId('Target_GMGS_BC_A_Charisma') | SpellId('Target_GMGS_BC_Attack') | SpellId('Target_GMGS_BC_ExtraDamage') | SpellId('Target_GMGS_BC_SkipTurn') | SpellId('Target_GMGS_Blight') | SpellId('Target_GMGS_IceStorm') | SpellId('Target_GMGS_WallOfFire') | SpellId('Target_GMGS_Cloudkill') | SpellId('Target_GMGS_ConeOfCold') | SpellId('Target_GMGS_InsectPlague') | SpellId('Target_GMGS_FlameStrike')
+end
+
+function IsGMGSCantrip()
+    return HasStatus('GMGS_CANTRIP_ACIDSPLASH', GetAttackWeapon()) | HasStatus('GMGS_CANTRIP_BONECHILL', GetAttackWeapon()) | HasStatus('GMGS_CANTRIP_ELDRITCHBLAST', GetAttackWeapon()) | HasStatus('GMGS_CANTRIP_FIREBOLT', GetAttackWeapon()) | HasStatus('GMGS_CANTRIP_POISONSPRAY', GetAttackWeapon()) | HasStatus('GMGS_CANTRIP_RAYOFFROST', GetAttackWeapon()) | HasStatus('GMGS_CANTRIP_SACREDFLAME', GetAttackWeapon()) | HasStatus('GMGS_CANTRIP_SHOCKINGGRASP', GetAttackWeapon()) | HasStatus('GMGS_CANTRIP_VICIOUSMOCKERY', GetAttackWeapon())
+end
+
+function IsMeleeRangedAttack()
+    return SpellId('DEADEYE_MH_RANGED_ATTACK') | SpellId('DEADEYE_OH_RANGED_ATTACK') | SpellId('DEADEYE_BLACK_POWDER') | SpellId('GB_MH_RANGED_ATTACK') | SpellId('GB_OH_RANGED_ATTACK')
+end
+
+function IsDeadeyeReaction()
+    return SpellId('Target_Deadeye_Riposte') | SpellId('Target_Deadeye_Sapping') | SpellId('Targer_Deadeye_Overkill') | SpellId('Target_Deadeye_Kick') | SpellId('Target_Deadeye_Countershot') | SpellId('Target_Deadeye_Cunning') | SpellId('Target_Deadeye_Rebuke')
+end

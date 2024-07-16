@@ -1,0 +1,7 @@
+new entry "Gunzerker Melee Attack"
+	type "SpellData"
+		data "SpellType" "Target"
+	using "GB_MH_ATTACK"
+		data "Icon" "GB_FlameStrike"
+		data "SpellProperties" "GROUND:DealDamage(MainMeleeWeapon, Fire);GROUND:ExecuteWeaponFunctors(MainHand)"
+		data "SpellSuccess" "DealDamage(max(1,MainMeleeWeapon), Fire);ExecuteWeaponFunctors(MainHand)"

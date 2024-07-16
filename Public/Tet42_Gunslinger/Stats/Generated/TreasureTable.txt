@@ -1,0 +1,323 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_GS_Tutorial_Chest",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_GS_Tutorial_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_Gunslinger_Chest",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Gunbreaker_Chest",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Chest",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Chest",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Chest",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Gunzerker_Chest",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Gunjitsu_Chest",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Deadeye_Chest",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_Gunbreaker_Tutorial_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_Gunbreaker_1h_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_Deadeye_Tutorial_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_BladeRevolver_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sniper_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_Gunslinger_Tutorial_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_Ace_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Rose_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Thorn_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Army_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Witchhunter_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Corpsemaker_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_GunMage_Tutorial_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_GunMage_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Army_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_GunSaint_Tutorial_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_GunSaint_Army_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Navy_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_Gunzerker_Tutorial_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_GZ_Gunblade_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_Gunjitsu_Tutorial_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_GJ_FingerGun_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GJ_FingerGun_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_Dirge_Tutorial_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_Corpsemaker_Dirge_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Army_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_GBCHEST"
+CanMerge 1
+new subtable "1,1"
+object category "I_Gunbreaker_1h_Scaling",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_GSCHEST"
+CanMerge 1
+new subtable "1,1"
+object category "I_DrakefireBlunderbuss_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Blunderbuss_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PumpShotgun_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Winchester1894_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FlintRifle_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SteamCarbine_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_McCree_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Ace_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Rose_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Thorn_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DrakefirePistol_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Navy_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Army_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Witchhunter_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Corpsemaker_Scaling",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_MAGECHEST"
+CanMerge 1
+new subtable "1,1"
+object category "I_GunMage_DrakefirePistol_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Navy_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Army_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_McCree_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Ace_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Rose_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Thorn_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_DrakefireBlunderbuss_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Blunderbuss_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_PumpShotgun_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Winchester1894_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_FlintRifle_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_SteamCarbine_Scaling",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_SAINTCHEST"
+CanMerge 1
+new subtable "1,1"
+object category "I_GunSaint_DrakefirePistol_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Navy_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Army_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Ace_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Rose_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Thorn_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_McCree_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_DrakefireBlunderbuss_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Blunderbuss_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_PumpShotgun_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Winchester1894_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_FlintRifle_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_SteamCarbine_Scaling",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_GZCHEST"
+CanMerge 1
+new subtable "1,1"
+object category "I_GZ_Gunblade_Scaling",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_GJCHEST"
+CanMerge 1
+new subtable "1,1"
+object category "I_GJ_FingerGun_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GJ_FingerGun_Scaling",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_DEADEYECHEST"
+CanMerge 1
+new subtable "1,1"
+object category "I_BladeRevolver_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sniper_Scaling",1,0,0,0,0,0,0,0
+
+new treasuretable "TT_DIRGECHEST"
+CanMerge 1
+new subtable "1,1"
+object category "I_Dirge_DrakefirePistol_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Navy_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Army_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Witchhunter_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Corpsemaker_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Ace_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Rose_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Thorn_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_McCree_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_DrakefireBlunderbuss_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Blunderbuss_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_PumpShotgun_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Winchester1894_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_FlintRifle_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_SteamCarbine_Scaling",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_Weapons"
+CanMerge 1
+new subtable "1,1"
+object category "I_GS_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Army_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Army_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Army_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Army_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_McCree_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Witchhunter_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Corpsemaker_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GZ_Gunblade_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Gunbreaker_1h_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GJ_FingerGun_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DrakefireBlunderbuss_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Blunderbuss_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PumpShotgun_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Winchester1894_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FlintRifle_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SteamCarbine_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_GS_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Army_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Army_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunMage_Army_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Army_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GunSaint_Navy_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_McCree_Legendary",1,0,0,0,0,0,0,0s
+new subtable "1,1"
+object category "I_Dirge_Witchhunter_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Dirge_Corpsemaker_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GZ_Gunblade_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Gunbreaker_1h_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GJ_FingerGun_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Shotgun_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DrakefireBlunderbuss_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Blunderbuss_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PumpShotgun_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Winchester1894_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FlintRifle_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SteamCarbine_Legendary",1,0,0,0,0,0,0,0

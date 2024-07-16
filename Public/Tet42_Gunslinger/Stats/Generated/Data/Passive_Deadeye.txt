@@ -1,0 +1,8 @@
+new entry "SNIPER_PASSIVE"
+	type "PassiveData"
+		data "DisplayName" "hfb9ecc4d57ba4dbe8ce66f93717d718a2ab4;1"
+		data "Description" "he07417ed206242f992132fcb7e9d3dff8dbg;3"
+		data "DescriptionParams" "LevelMapValue(Sniper_Bonus);16"
+		data "StatsFunctorContext" "OnAttack"
+		data "Conditions" "DistanceToTargetGreaterThan(16) and IsRangedAttack()"
+		data "StatsFunctors" "DealDamage(LevelMapValue(Sniper_Bonus))"

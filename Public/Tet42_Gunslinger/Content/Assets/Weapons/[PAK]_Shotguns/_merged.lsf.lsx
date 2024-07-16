@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="Depth" type="int64" value="1" />
+					<attribute id="Height" type="int64" value="2048" />
+					<attribute id="ID" type="FixedString" value="08ccf957-2f9f-4d93-bbce-1708511cbc37" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="DW_Drakefire_Body" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/DrakefireBlunderbuss/Resources/DW_Drakefire_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="DW_Drakefire_Body" />
+					<attribute id="Type" type="int64" value="1" />
+					<attribute id="Width" type="int64" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int64" value="1" />
+					<attribute id="Height" type="int64" value="2048" />
+					<attribute id="ID" type="FixedString" value="089eb15b-9204-4830-8b06-eb088ed1dca8" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="DW_Drakefire_Normal" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/DrakefireBlunderbuss/Resources/DW_Drakefire_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="DW_Drakefire_Normal" />
+					<attribute id="Type" type="int64" value="1" />
+					<attribute id="Width" type="int64" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int64" value="1" />
+					<attribute id="Height" type="int64" value="2048" />
+					<attribute id="ID" type="FixedString" value="fb051af5-8770-440c-9411-95b05f032514" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="DW_Drakefire_Physical" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/DrakefireBlunderbuss/Resources/DW_Drakefire_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="DW_Drakefire_Physical" />
+					<attribute id="Type" type="int64" value="1" />
+					<attribute id="Width" type="int64" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="aae8d6f2-3bee-454a-b0aa-bbb28bb78ab8" />
+					<attribute id="Name" type="LSString" value="PumpShotgun" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/PumpShotgun/Resources/PumpShotgun_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="PumpShotgun" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="20fffa13-63a5-4fb8-a8cd-65e9ba96aa7c" />
+					<attribute id="Name" type="LSString" value="PumpShotgun" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/PumpShotgun/Resources/PumpShotgun_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="PumpShotgun" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="899a9919-c9f5-4d9a-a4ad-da39d2bfa49b" />
+					<attribute id="Name" type="LSString" value="PumpShotgun" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/PumpShotgun/Resources/PumpShotgun_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="PumpShotgun" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="45f27cf4-a54d-4a75-9a56-4a87a67e22fd" />
+					<attribute id="Name" type="LSString" value="Blunderbuss" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/Blunderbuss/Resources/Blunderbuss_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Blunderbuss" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="2594524f-4800-4215-bf69-f7cfc37b427d" />
+					<attribute id="Name" type="LSString" value="Blunderbuss" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/Blunderbuss/Resources/Blunderbuss_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Blunderbuss" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="265bbf09-3804-40c4-8630-2be9a661ba91" />
+					<attribute id="Name" type="LSString" value="Blunderbuss" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/Blunderbuss/Resources/Blunderbuss_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Blunderbuss" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="bf016daf-5b11-4ece-8af0-e88ae702a7aa" />
+					<attribute id="Name" type="LSString" value="DrakefireBlunderbuss" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/DrakefireBlunderbuss/Resources/DrakefireBlunderbuss_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="DrakefireBlunderbuss" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="9d025c87-3f90-49d3-8aa5-f1b32e2dd384" />
+					<attribute id="Name" type="LSString" value="DrakefireBlunderbuss" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/DrakefireBlunderbuss/Resources/DrakefireBlunderbuss_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="DrakefireBlunderbuss" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="dbde7d4c-d557-4f72-baa6-047df18ad5ec" />
+					<attribute id="Name" type="LSString" value="DrakefireBlunderbuss" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/DrakefireBlunderbuss/Resources/DrakefireBlunderbuss_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="DrakefireBlunderbuss" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="MaterialBank">
+		<node id="MaterialBank">
+			<children>
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="b11cb56f-f41b-4b43-8aa3-063dbc877e60" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="DW_Drakefire" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base_AlphaTest.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="9dc5807b-3697-4b8f-ab0f-b9c5c1bd7010" />
+							<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="08ccf957-2f9f-4d93-bbce-1708511cbc37" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="089eb15b-9204-4830-8b06-eb088ed1dca8" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="fb051af5-8770-440c-9411-95b05f032514" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="ebb37b58-8f74-4026-865f-a8c396c4f1dc" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="PumpShotgun_Bank" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_BASE.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="1" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="20fffa13-63a5-4fb8-a8cd-65e9ba96aa7c" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="aae8d6f2-3bee-454a-b0aa-bbb28bb78ab8" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="899a9919-c9f5-4d9a-a4ad-da39d2bfa49b" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="df9a212c-d221-4d06-86c5-08420dc22cb0" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="Blunderbuss_Bank" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_BASE.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="1" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="2594524f-4800-4215-bf69-f7cfc37b427d" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="45f27cf4-a54d-4a75-9a56-4a87a67e22fd" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="265bbf09-3804-40c4-8630-2be9a661ba91" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+						</node>
+						<node id="Resource">
+							<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="2cc06484-9877-484b-b5b0-9746546a50f5" />
+							<attribute id="MaterialType" type="uint8" value="4" />
+							<attribute id="Name" type="LSString" value="DrakefireBlunderbuss_Bank" />
+							<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base_AlphaTest.lsf" />
+							<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+							<children>
+								<node id="ScalarParameters">
+									<attribute id="BaseValue" type="float" value="0" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="ExportAsPreset" type="bool" value="False" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="BaseValue" type="float" value="0.5" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="ExportAsPreset" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="Texture2DParameters">
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="ExportAsPreset" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="ID" type="FixedString" value="9dc5807b-3697-4b8f-ab0f-b9c5c1bd7010" />
+									<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+									<attribute id="ParameterName" type="FixedString" value="" />
+								</node>
+								<node id="Texture2DParameters">
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="ExportAsPreset" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="Texture Map" />
+									<attribute id="ID" type="FixedString" value="bf016daf-5b11-4ece-8af0-e88ae702a7aa" />
+									<attribute id="ParameterName" type="FixedString" value="basecolor" />
+								</node>
+								<node id="Texture2DParameters">
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="ExportAsPreset" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="Texture Map" />
+									<attribute id="ID" type="FixedString" value="dbde7d4c-d557-4f72-baa6-047df18ad5ec" />
+									<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="06aad54b-a8ab-4435-9cc9-bc75b688c0d2" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="PumpShotgun_Textures" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/PumpShotgun/Resources/PumpShotgun.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/PumpShotgun/Resources/PumpShotgun.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="ebb37b58-8f74-4026-865f-a8c396c4f1dc" />
+							<attribute id="ObjectID" type="FixedString" value="PumpShotgun.PumpShotgun.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="a4564dcd-41c3-438c-ac6d-af3364fa4217" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="Blunderbuss_Textures" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/Blunderbuss/Resources/Blunderbuss.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/Blunderbuss/Resources/Blunderbuss.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="df9a212c-d221-4d06-86c5-08420dc22cb0" />
+							<attribute id="ObjectID" type="FixedString" value="Blunderbuss.Blunderbuss.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="56c95f84-85ab-4e34-9319-fdb50a45134c" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="DW_WPN_Drakefire" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/DrakefireBlunderbuss/Resources/DW_WPN_Drakefire.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Tet42_Gunslinger/Assets/Weapons/Tet42_Gunslinger/DrakefireBlunderbuss/Resources/DW_WPN_Drakefire.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b11cb56f-f41b-4b43-8aa3-063dbc877e60" />
+							<attribute id="ObjectID" type="FixedString" value="DW_WPN_Drakefire.DW_WPN_Drakefire_Mesh.1" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

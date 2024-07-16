@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="GunSaint" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="GUNSAINT" />
+			<attribute id="UUID" type="guid" value="6da14b20-45d1-4f3f-a9c9-4413ebb361c6" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

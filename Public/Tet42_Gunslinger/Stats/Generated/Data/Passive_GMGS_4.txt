@@ -1,0 +1,46 @@
+new entry "GMGS_Blight"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BLIGHT', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "TARGET:IF(Tagged('PLANT')):DealDamage(64,Necrotic,Magical);BreakConcentration(SELF)"
+
+new entry "GMGS_IceStorm"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_ICESTORM', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "BreakConcentration(SELF)"
+
+new entry "GMGS_WallOfFire"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_WALLOFFIRE', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "BreakConcentration(SELF)"
+
+new entry "GMGS_Banishment"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BANISHMENT', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "TARGET:IF(Character() and not IsImmuneToStatus('BANISHED'):ApplyStatus(BANISHED,100,2);IF(Character() and not IsImmuneToStatus('BANISHED'):ApplyStatus(SELF,BANISHMENT_OWNER,100,2);BreakConcentration(SELF)"
+
+new entry "GMGS_Confusion"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_CONFUSION', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CONFUSION,100,3);BreakConcentration(SELF)"
+
+new entry "GMGS_Polymorph"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_POLYMORPH', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "TARGET:IF(Character() and not IsImmuneToStatus('SG_Polymorph'):ApplyStatus(POLYMORPH,100,5);BreakConcentration(SELF)"
+
+
+
+
+

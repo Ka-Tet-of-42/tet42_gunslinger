@@ -1,0 +1,1843 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h41c83ce17c2e4e34b80985621d9f837136g5" version="1" />
+					<attribute id="Icon" type="FixedString" value="Gunslingers" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="56f33ff3-8527-4f5f-bb92-1bd44c9174bc" />
+					<attribute id="Name" type="LSString" value="GS_Tutorial_Chest" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="GS_Tutorial_Chest" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_GS_Tutorial_Chest" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hba96812a22de4ab89e469c62c285ff275162" version="1" />
+					<attribute id="Icon" type="FixedString" value="Gunslinger" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="99f6e3b2-5510-4619-bd19-4bf4259301f6" />
+					<attribute id="Name" type="LSString" value="Gunslinger_Tutorial_Chest" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="Gunslinger_Chest" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_Gunslinger_Tutorial_Chest" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0a7373f8a4e3415c9b44cb7dc11a61f7a9b5" version="1" />
+					<attribute id="Icon" type="FixedString" value="Dirge" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b63eeb19-163a-4c2d-aa90-5b622ac928b3" />
+					<attribute id="Name" type="LSString" value="Dirge_Tutorial_Chest" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="Dirge_Chest" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_Dirge_Tutorial_Chest" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3fd5c0aaaea245278052aaeb3dd2031eee47" version="1" />
+					<attribute id="Icon" type="FixedString" value="Gunbreaker" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ce3b72df-4d12-467b-8f0b-4cb6285f82bc" />
+					<attribute id="Name" type="LSString" value="Gunbreaker_Tutorial_Chest" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="Gunbreaker_Chest" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_Gunbreaker_Tutorial_Chest" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h16c883af127a4bb0a6b87574f2cad11b3909" version="1" />
+					<attribute id="Icon" type="FixedString" value="GunMage" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7983d680-b2a1-4394-bd28-e79750f94d62" />
+					<attribute id="Name" type="LSString" value="GunMage_Tutorial_Chest" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="GunMage_Chest" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_GunMage_Tutorial_Chest" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9ebce59c87444a6b95613cf06f8361bb8f31" version="1" />
+					<attribute id="Icon" type="FixedString" value="GunSaint" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4d97724c-b31d-438a-833a-a6d265ac66ad" />
+					<attribute id="Name" type="LSString" value="GunSaint_Tutorial_Chest" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="GunSaint_Chest" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_GunSaint_Tutorial_Chest" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h09aadc8244764dff8c26004c2ae75dd46a22" version="1" />
+					<attribute id="Icon" type="FixedString" value="Gunzerker" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="5f37200a-8d18-4b4f-9289-971c9003155e" />
+					<attribute id="Name" type="LSString" value="Gunzerker_Tutorial_Chest" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="Gunzerker_Chest" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_Gunzerker_Tutorial_Chest" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd28bd184706842da9c16c0947e314d903g5f" version="1" />
+					<attribute id="Icon" type="FixedString" value="Gunjitsu" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="87dab469-f888-4fa3-83b8-81d561f282c2" />
+					<attribute id="Name" type="LSString" value="Gunjitsu_Tutorial_Chest" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="Gunjitsu_Chest" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_Gunjitsu_Tutorial_Chest" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h643fd16b9efe41a48c8dca0253ae304e2e3f" version="1" />
+					<attribute id="Icon" type="FixedString" value="Deadeye" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a6e8c839-b9dd-4042-af87-74bbc7537bef" />
+					<attribute id="Name" type="LSString" value="Deadeye_Tutorial_Chest" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="Deadeye_Chest" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_Deadeye_Tutorial_Chest" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h9feb2a57c99b4983bd9fffa6f1f3ea71e2b7" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h09d6442bc8b649318f07bf3fc9e5f8db32a6" version="1" />
+					<attribute id="Icon" type="FixedString" value="Gunslinger" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a0124e8f-564d-4f1b-b8dc-e60e689f89c9" />
+					<attribute id="Name" type="LSString" value="GSCHEST" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="GSCHEST" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_GSCHEST" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h9feb2a57c99b4983bd9fffa6f1f3ea71e2b7" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2a48b4c3041346b6ad5c61c546fc482c35c4" version="1" />
+					<attribute id="Icon" type="FixedString" value="Dirge" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6053ed06-0fc2-421c-8136-e43f65b7b70e" />
+					<attribute id="Name" type="LSString" value="DIRGECHEST" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="DIRGECHEST" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_DIRGECHEST" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb814900dcdd4f878ba8d8c3d0e1d0b090dc" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h643fd16b9efe41a48c8dca0253ae304e2e3f" version="1" />
+					<attribute id="Icon" type="FixedString" value="Dirge" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="182813d2-cf3d-4a2a-9de9-106786ce4c6b" />
+					<attribute id="Name" type="LSString" value="DEADEYECHEST" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="DEADEYECHEST" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_DEADEYECHEST" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h9feb2a57c99b4983bd9fffa6f1f3ea71e2b7" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h42ab0ef492704ad8b4c52a4cb2cbdffec495" version="1" />
+					<attribute id="Icon" type="FixedString" value="Gunbreaker" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="762b9360-76c8-432a-8033-70ce9e74dada" />
+					<attribute id="Name" type="LSString" value="GBCHEST" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="GBCHEST" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_GBCHEST" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h9feb2a57c99b4983bd9fffa6f1f3ea71e2b7" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he0c135e240a14d768eb2d8eccbba1785a4bf" version="1" />
+					<attribute id="Icon" type="FixedString" value="GunMage" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a74599c3-8afe-4e0f-991d-5eb06b8f949d" />
+					<attribute id="Name" type="LSString" value="MAGECHEST" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="MAGECHEST" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_MAGECHEST" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h9feb2a57c99b4983bd9fffa6f1f3ea71e2b7" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb9e41ab0ed1c43f39b4cb95bda2e5fb2cgg9" version="1" />
+					<attribute id="Icon" type="FixedString" value="GunSaint" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="193ba54a-f813-4080-8aeb-5df5585c20fc" />
+					<attribute id="Name" type="LSString" value="SAINTCHEST" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="SAINTCHEST" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_SAINTCHEST" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h9feb2a57c99b4983bd9fffa6f1f3ea71e2b7" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc179342098bf4f6e91bc98178dd0bbe36b18" version="1" />
+					<attribute id="Icon" type="FixedString" value="Gunzerker" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="770426e6-707a-4a58-80a8-68996d6f0086" />
+					<attribute id="Name" type="LSString" value="GZCHEST" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="GZCHEST" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_GZCHEST" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h9feb2a57c99b4983bd9fffa6f1f3ea71e2b7" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h62fe55112da642ec9540e253e46841f990ef" version="1" />
+					<attribute id="Icon" type="FixedString" value="Gunjitsu" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8d8819b6-b8ad-4d5c-9e56-aedbbf1a2e80" />
+					<attribute id="Name" type="LSString" value="GJCHEST" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0ebecb06-6e72-4530-bf61-55aeb7d70676" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="8c797c9b-5557-71f8-1b38-521174313729" />
+					<attribute id="Stats" type="FixedString" value="GJCHEST" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="TreasureOnDestroy" type="bool" value="False" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7cf13ea4-7c10-009b-ca3b-58f2c9ef64e8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209009" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TT_GJCHEST" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="ha531a595dd0f44e9bdc781f9a7275a481c38" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h3d74e3c8dc1242f39acb0b2f8db021f9bbda" version="1" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="EquipmentTypeID" type="guid" value="4305a239-3957-46c8-81ab-6505662d127b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Ace" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="855779ec-d8e1-4411-84c6-a8d5e8147f34" />
+					<attribute id="Name" type="LSString" value="Ace" />
+					<attribute id="ParentTemplateId" type="FixedString" value="57e8af03-6452-4bb8-a74a-bc4b17a79fc3" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c3bbf09f-9363-0ebe-8d57-82e74596227b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="Ace" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="a43f9519-89dc-4c41-acb8-03907d556c76" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hdf1e7f976abb4702b7daf5679ae4dd661567" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="EquipmentTypeID" type="guid" value="4305a239-3957-46c8-81ab-6505662d127b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Rose" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="eb6b1e7d-6a97-4608-8052-d463a6a5736a" />
+					<attribute id="Name" type="LSString" value="Rose" />
+					<attribute id="ParentTemplateId" type="FixedString" value="57e8af03-6452-4bb8-a74a-bc4b17a79fc3" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c3bbf09f-9363-0ebe-8d57-82e74596227b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="Rose" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="c7d8172d-a03a-4899-9e87-163d0ce235ed" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he351083b925c4582804522c7f296b1995f9g" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="EquipmentTypeID" type="guid" value="4305a239-3957-46c8-81ab-6505662d127b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Thorn" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="2d35d54a-ac56-44b5-9db5-393ca15b510c" />
+					<attribute id="Name" type="LSString" value="Thorn" />
+					<attribute id="ParentTemplateId" type="FixedString" value="57e8af03-6452-4bb8-a74a-bc4b17a79fc3" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c3bbf09f-9363-0ebe-8d57-82e74596227b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="Thorn" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="c854fa5a-42e8-4f59-bc4a-7ff26968eab5" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hfba792d35049460ca7075a2972642bb4gc5f" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="EquipmentTypeID" type="guid" value="4305a239-3957-46c8-81ab-6505662d127b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="McCree" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="6782bb36-a3fa-4217-93c3-d40cd09d3362" />
+					<attribute id="Name" type="LSString" value="McCree" />
+					<attribute id="ParentTemplateId" type="FixedString" value="57e8af03-6452-4bb8-a74a-bc4b17a79fc3" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c3bbf09f-9363-0ebe-8d57-82e74596227b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="McCree" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="4e3c6260-ccfa-4a4c-9e9b-0b1ac1c95ff8" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfc8ca9b0ab964e6984d77a257476b8426116" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="PumpShotgun" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="4e222d7b-6344-4753-b558-253606361c07" />
+					<attribute id="Name" type="LSString" value="PumpShotgun" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4ea7ee4-38c9-4ced-a086-3aff9345cb9a" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="PumpShotgun" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="06aad54b-a8ab-4435-9cc9-bc75b688c0d2" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7a238dc0c9f1476385328ce59960e87dg842" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="FlintRifle" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="b6599162-1ae6-4744-9317-722283fa53bc" />
+					<attribute id="Name" type="LSString" value="FlintRifle" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4ea7ee4-38c9-4ced-a086-3aff9345cb9a" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="FlintRifle" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="cb0bad1b-2c56-4471-9909-9b47b5e00440" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h851ebf576551480cbcc46a4b0b7df39cge01" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Blunderbuss" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="37ca8e09-0eee-48c7-aa82-3418a2d4ddd2" />
+					<attribute id="Name" type="LSString" value="Blunderbuss" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4ea7ee4-38c9-4ced-a086-3aff9345cb9a" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="Blunderbuss" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="a4564dcd-41c3-438c-ac6d-af3364fa4217" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4e26f5750a8f42468dc6ef478bb99a39f4c6" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Drakefire" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="43cd6072-39eb-408c-b77f-0aad5d13fce3" />
+					<attribute id="Name" type="LSString" value="DrakefireBlunderbuss" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4ea7ee4-38c9-4ced-a086-3aff9345cb9a" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="DrakefireBlunderbuss" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="56c95f84-85ab-4e34-9319-fdb50a45134c" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h412e1a279f88469b8da8e65a8f160373bbd3" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Winchester1894" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="6711ad76-1ef8-4a13-9bfb-2402d08c5201" />
+					<attribute id="Name" type="LSString" value="Winchester1894" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4ea7ee4-38c9-4ced-a086-3aff9345cb9a" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="Winchester1894" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="83c62da3-237e-4b57-846f-8d4c63df9c66" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h49a4aa280ff9471fbc7743327b0d22861885" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Gunbreaker_1h" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="8aa9a9c6-44f5-447b-a46f-fbcdcb2e4b26" />
+					<attribute id="Name" type="LSString" value="Gunbreaker_1h" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3fc2ba50-3070-4caa-abe8-3bf885969bde" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="Gunbreaker_1h" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="148836d9-2566-46e6-a0e3-46f786aa84bf" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9141015e62be41fa93e8730fe0275fdfddf1" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="2d85d633-d496-44a1-a643-0e95ef879a6d" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Heartpiercer" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="b8a32281-b876-4564-be17-65dc1f9699de" />
+					<attribute id="Name" type="LSString" value="BladeRevolver" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3fc2ba50-3070-4caa-abe8-3bf885969bde" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="BladeRevolver" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="a1d99371-e9f0-4d9a-8b04-6f34e258d2f4" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc6ed14902ad645a18e598b49605d708e7b31" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Gunblade_Longsword" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="8cf6b0de-de29-489a-ac28-1a0727580b0c" />
+					<attribute id="Name" type="LSString" value="Tet42_Gunzerker_Greatsword" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3fc2ba50-3070-4caa-abe8-3bf885969bde" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="Tet42_Gunzerker_Greatsword" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="e5878808-a27c-4ae2-9af2-71c27d8b4fd6" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h94179debec66413484356808e5f5c9e899f9" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Gunblade_Longsword" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="cc47a2d8-d31d-4abb-9f17-092e7cd1ce71" />
+					<attribute id="Name" type="LSString" value="Tet42_Gunzerker_Greatword_L" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3fc2ba50-3070-4caa-abe8-3bf885969bde" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="Tet42_Gunzerker_Greatsword_L" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="e5878808-a27c-4ae2-9af2-71c27d8b4fd6" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="hd4415b4deb684780910089bfd1fcd4230cbb" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="heb72cdbae03243a0872b962d159431c0gfec" version="2" />
+					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Spell_Enchantment_CommandFlee" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="61406cd9-61a1-481e-8a0c-6542dd033b0c" />
+					<attribute id="Name" type="LSString" value="Gunjitsu" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="GJ_FingerGun_Scaling" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="6cf05a50-6cad-431a-bcbb-8e789b744856" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="BeamFX" type="FixedString" value="VFX_Projectile_FireBolt_Smokey" />
+					<attribute id="NeedsImpactSFX" type="bool" value="True" />
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
+					<attribute id="CastShadow" type="bool" value="False" />
+					<attribute id="DetachBeam" type="bool" value="True" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="TrajectoryType" type="uint8" value="1" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Combat_GroundImpact_Round_VerySmall_01" />
+					<attribute id="GroundImpactFX" type="LSString" value="VFX_Spells_Cast_Tadpole_Projectile_Ricochet_Impact_01" />
+					<attribute id="TrailFX" type="FixedString" value="VFX_Projectiles_Damage_Fire_FireBolt_Projectile_01" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LifeTime" type="float" value="20" />
+					<attribute id="MapKey" type="FixedString" value="52f05f5a-dbe6-4979-bc42-47ce810127e6" />
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_EldritchBlast_01" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="PreviewPathImpactFX" type="FixedString" value="VFX_UI_DestinationBeam_Projectile_01" />
+					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
+					<attribute id="Speed" type="float" value="180" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VelocityMode" type="uint8" value="1" />
+					<attribute id="InitialSpeed" type="float" value="100" />
+					<attribute id="Acceleration" type="float" value="80" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="DestroyTrailFXOnImpact" type="bool" value="True" />
+					<children>
+						<node id="Bounds" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h5b33866f3b784ceeaef7ab63f4997c35dc0a" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="EquipmentTypeID" type="guid" value="4305a239-3957-46c8-81ab-6505662d127b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Corpsemaker" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="57c60caa-5700-4f83-8d1d-1949723b5677" />
+					<attribute id="Name" type="LSString" value="Corpsemaker" />
+					<attribute id="ParentTemplateId" type="FixedString" value="57e8af03-6452-4bb8-a74a-bc4b17a79fc3" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c3bbf09f-9363-0ebe-8d57-82e74596227b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="Corpsemaker" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="2d65ab13-ed11-4973-af7c-6826cf582334" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h503441414c284fa8bb4313359a847919a1ga" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="EquipmentTypeID" type="guid" value="4305a239-3957-46c8-81ab-6505662d127b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Witchhunter" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="6aafd0d2-0b0e-4494-954d-40e4bb4da6d5" />
+					<attribute id="Name" type="LSString" value="Witchhunter" />
+					<attribute id="ParentTemplateId" type="FixedString" value="57e8af03-6452-4bb8-a74a-bc4b17a79fc3" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c3bbf09f-9363-0ebe-8d57-82e74596227b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="Witchhunter" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="9c8fa4c9-42a1-43da-a849-9feda058d70e" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hb86b61364315441eb2333cc67c6d615bb1ec" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h270ea66c9ae44d71b6af1a3677d488432ed7" version="1" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="EquipmentTypeID" type="guid" value="4305a239-3957-46c8-81ab-6505662d127b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Colt_Navy" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="1f6f45ab-6896-4ffc-a25e-18d9c5ecd10f" />
+					<attribute id="Name" type="LSString" value="Navy_Revolver" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="Navy_Revolver" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="5bcd3298-955f-40f0-9058-1d1d0deb0df5" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb86b61364315441eb2333cc67c6d615bb1ec" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h9a1ec69eaf5447e5b61039f27e746740e6a7" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="4305a239-3957-46c8-81ab-6505662d127b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Colt_Army" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="2474b29c-e356-4af3-b85f-e3af2713010a" />
+					<attribute id="Name" type="LSString" value="Army_Revolver" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="Army_Revolver" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="456a60b5-340c-4a18-9c2a-e8b77c2f8552" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h20879689212d4aaab64249cb51b859409139" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="4305a239-3957-46c8-81ab-6505662d127b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Drakefire" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="d4b3894c-95ce-47f7-84ae-28ea60204659" />
+					<attribute id="Name" type="LSString" value="DrakefirePistol" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="DrakefirePistol" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="79b996b9-c2fb-4a62-8785-cab9be4a12b5" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h344508d421334bd4af4ad053a15a4bab3eg5" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="SteamCarbine" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="bf4d0e5d-2639-443a-b0a8-47528e5a45c7" />
+					<attribute id="Name" type="LSString" value="SteamCarbine" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4ea7ee4-38c9-4ced-a086-3aff9345cb9a" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="SteamCarbine" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="5934194a-dbec-4b52-83f7-90f95953a50a" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="BeamFX" type="FixedString" value="" />
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
+					<attribute id="CastShadow" type="bool" value="False" />
+					<attribute id="DetachBeam" type="bool" value="True" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroundImpactFX" type="LSString" value="" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Spells_Cast_Warlock_ProjectileBeam_EldritchBlast_Impact_Red_01" />
+					<attribute id="InitialSpeed" type="float" value="180" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LifeTime" type="float" value="20" />
+					<attribute id="MapKey" type="FixedString" value="396af3e8-132d-403c-b68c-1cd7547a62ff" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="PreviewPathImpactFX" type="FixedString" value="" />
+					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
+					<attribute id="Speed" type="float" value="180" />
+					<attribute id="TrajectoryType" type="uint8" value="0" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VelocityMode" type="uint8" value="0" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758167" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="AnubisConfigName" type="FixedString" value="DefaultBeast" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<attribute id="CanFight" type="bool" value="True" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9f1f6b31-2a0f-4705-26e4-a70701f1ef15" />
+					<attribute id="DeathEffect" type="guid" value="bc26118a-6fab-4aee-a576-d90b96b25775" />
+					<attribute id="DisableEquipping" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h791ab1a4g1ac6g428ag8f25g93f694d544d5" version="1" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="9f1f6b31-2a0f-4705-26e4-a70701f1ef15-_(Icon_Rat)" />
+					<attribute id="IsLootable" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="cc311c8f-0c74-446d-9d98-ef48e0a67ed0" />
+					<attribute id="Name" type="LSString" value="RatFamiliar_Summon" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aa60d129-8d11-4178-a22b-836062e86010" />
+					<attribute id="Stats" type="FixedString" value="Familiar_Rat" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="VocalAlertResourceID" type="FixedString" value="5391bd75-fd05-3ca7-0084-00da5fe2f5e5" />
+					<attribute id="VocalBoredResourceID" type="FixedString" value="9d3e4ad0-e7cc-d7de-1a7a-6dee1160debb" />
+					<attribute id="VocalExhaustedResourceID" type="FixedString" value="5391bd75-fd05-3ca7-0084-00da5fe2f5e5" />
+					<attribute id="VocalRelaxedResourceID" type="FixedString" value="b2b35fc4-aed8-ec52-97fc-287003f569fe" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208905" />
+					<children>
+						<node id="LocomotionParams">
+							<attribute id="MovementAcceleration" type="float" value="12" />
+							<attribute id="MovementTiltToRemap" type="FixedString" value="" />
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="CasualExplorer" type="bool" value="True" />
+									<attribute id="Classic" type="bool" value="True" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="HonorHardcore" type="bool" value="True" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Shout_Hide" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="TacticianHardcore" type="bool" value="True" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="CasualExplorer" type="bool" value="True" />
+									<attribute id="Classic" type="bool" value="True" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="HonorHardcore" type="bool" value="True" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Rat_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="TacticianHardcore" type="bool" value="True" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="CasualExplorer" type="bool" value="True" />
+									<attribute id="Classic" type="bool" value="True" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="HonorHardcore" type="bool" value="True" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Projectile_Jump_Tiny" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="TacticianHardcore" type="bool" value="True" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="CasualExplorer" type="bool" value="True" />
+									<attribute id="Classic" type="bool" value="True" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="HonorHardcore" type="bool" value="True" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Shout_Disengage" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="TacticianHardcore" type="bool" value="True" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8713fda9-1855-42ef-8c54-a1e2d5a49194" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="5c4009ca-fdb5-eb03-8a6e-e0a1ca29989f" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h28d8bcfbg0eeag401egbca2g270a36290c63" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f1a66783-462b-4822-9fb2-3c210ab68eed" />
+					<attribute id="Name" type="LSString" value="RatCompanion_Summon_Swarm" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f5bffed7-f4dc-4bad-b33d-37897d2b52a8" />
+					<attribute id="Stats" type="FixedString" value="Companion_Rat_Swarm" />
+					<attribute id="SwarmGroup" type="FixedString" value="END_Underground_Rats_1" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="BeamFX" type="FixedString" value="" />
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
+					<attribute id="CastShadow" type="bool" value="False" />
+					<attribute id="DetachBeam" type="bool" value="True" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroundImpactFX" type="LSString" value="" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Spells_Cast_Warlock_ProjectileBeam_EldritchBlast_Impact_Red_01" />
+					<attribute id="InitialSpeed" type="float" value="180" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LifeTime" type="float" value="20" />
+					<attribute id="MapKey" type="FixedString" value="396af3e8-132d-403c-b68c-1cd7547a62ff" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="PreviewPathImpactFX" type="FixedString" value="" />
+					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
+					<attribute id="Speed" type="float" value="180" />
+					<attribute id="TrajectoryType" type="uint8" value="0" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VelocityMode" type="uint8" value="0" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758167" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

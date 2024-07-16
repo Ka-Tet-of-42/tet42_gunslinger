@@ -1,0 +1,93 @@
+new entry "GMGS_Cloudkill"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_CLOUDKILL', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CLOUDKILL,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_ConeOfCold"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_CONEOFCOLD', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "BreakConcentration(SELF)"
+
+new entry "GMGS_InsectPlague"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_INSECTPLAGUE', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(INSECT_PLAGUE,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_FlameStrike"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_FLAMESTRIKE', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "BreakConcentration(SELF)"
+
+new entry "GMGS_HoldMonster"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_HOLDMONSTER', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(HOLD_MONSTER,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_C_FilthFever"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_C_FILTHFEVER', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CONTAGION_FILTH_FEVER_1,100,3);BreakConcentration(SELF)"
+
+new entry "GMGS_C_BlindingSickness"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_C_BLINDINGSICKNESS', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CONTAGION_BLINDING_SICKNESS_1,100,3);BreakConcentration(SELF)"
+
+new entry "GMGS_C_FleshRot"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_C_FLESHROT', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CONTAGION_FLESH_ROT_1,100,3);BreakConcentration(SELF)"
+
+new entry "GMGS_C_Mindfire"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_C_MINDFIRE', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CONTAGION_MINDFIRE_1,100,3);BreakConcentration(SELF)"
+
+new entry "GMGS_C_Seizure"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_C_SEIZURE', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CONTAGION_SEIZURE_1,100,3);BreakConcentration(SELF)"
+
+new entry "GMGS_C_SlimyDoom"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_C_SLIMYDOOM', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CONTAGION_SLIMY_DOOM_1,100,3);BreakConcentration(SELF)"
+
+new entry "GMGS_PlanarBinding"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_PLANARBINDING', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "TARGET:IF(not Ally() and not Dead() and (Tagged('CELESTIAL') or Tagged('ELEMENTAL') or Tagged('FEY') or Tagged('FIEND'))):ApplyStatus(PLANAR_BINDING,100,10);BreakConcentration(SELF)"
+
+
+
+
+
+
+
+
+
+

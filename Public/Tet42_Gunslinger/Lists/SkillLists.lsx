@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SkillLists">
+    <node id="root">
+      <children>
+        <node id="SkillList">
+          <attribute id="Skills" type="LSString" value="Athletics, Acrobatics, Arcana, Insight, Intimidation, Investigation, Perception" />
+          <attribute id="UUID" type="guid" value="c9821fbd-6146-45b7-a592-a1f68f3f0999" />
+        </node>
+        <node id="SkillList">
+          <attribute id="Skills" type="LSString" value="Acrobatics, Arcana, History, Insight, Investigation, Nature, Religion, Medicine, Survival, Perception, Survival" />
+          <attribute id="UUID" type="guid" value="4f34ed59-9188-4f6a-805b-b8012e9181b0" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

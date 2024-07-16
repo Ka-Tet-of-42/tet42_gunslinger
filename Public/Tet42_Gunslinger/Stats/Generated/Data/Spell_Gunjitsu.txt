@@ -1,0 +1,6 @@
+new entry "GJ_Opportunist_Unlock"
+	type "SpellData"
+		data "SpellType" "Target"
+		data "DisplayName" "h455bc5f7406040bbbc9e3d99795ea6469899;1"
+		data "InterruptPrototype" "GJ_Opportunist"
+

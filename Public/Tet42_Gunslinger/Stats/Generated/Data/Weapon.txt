@@ -1,0 +1,10 @@
+//Base Firearm Template
+
+new entry "_Firearm"
+	type "Weapon"
+	using "_BaseWeapon"
+		data "Damage Type" "Piercing"
+		data "Weapon Group" "MartialRangedWeapon"
+		data "Projectile" "ff93ba9c-124c-454e-ac8c-436c136bcef2"
+		data "Proficiency Group" "Slings;MartialWeapons"
+		data "DefaultBoosts" ""

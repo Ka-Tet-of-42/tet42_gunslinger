@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="AbilityDistributionPresets">
+    <node id="root">
+      <children>
+        <node id="AbilityDistributionPreset">Base
+          <attribute id="ClassUUID" type="guid" value="2a95cb12-1f37-4287-ac3e-76818f0eb407" />
+          <attribute id="Charisma" type="int32" value="14" />
+          <attribute id="Constitution" type="int32" value="13" />
+          <attribute id="Dexterity" type="int32" value="15" />
+          <attribute id="Intelligence" type="int32" value="12" />
+          <attribute id="Strength" type="int32" value="8" />
+          <attribute id="Wisdom" type="int32" value="10" />
+          <attribute id="UUID" type="guid" value="184e6d12-d911-41fa-b8d8-ccfa9c506862" />
+        </node>
+        <node id="AbilityDistributionPreset">Gunslinger
+          <attribute id="ClassUUID" type="guid" value="6342fcb0-1b95-425c-9e8c-8037940b412a" />
+          <attribute id="Charisma" type="int32" value="14" />
+          <attribute id="Constitution" type="int32" value="13" />
+          <attribute id="Dexterity" type="int32" value="15" />
+          <attribute id="Intelligence" type="int32" value="12" />
+          <attribute id="Strength" type="int32" value="8" />
+          <attribute id="Wisdom" type="int32" value="10" />
+          <attribute id="UUID" type="guid" value="44bc4395-dab4-4f04-97a8-e41ed91f3ccc" />
+        </node>
+        <node id="AbilityDistributionPreset">Dirge
+          <attribute id="ClassUUID" type="guid" value="ae45bd19-f105-4d9b-ade0-bd3c3c910cee" />
+          <attribute id="Charisma" type="int32" value="15" />
+          <attribute id="Constitution" type="int32" value="13" />
+          <attribute id="Dexterity" type="int32" value="14" />
+          <attribute id="Intelligence" type="int32" value="12" />
+          <attribute id="Strength" type="int32" value="8" />
+          <attribute id="Wisdom" type="int32" value="10" />
+          <attribute id="UUID" type="guid" value="feafb380-71c4-4b32-8e0d-9a93f35f32e9" />
+        </node>
+        <node id="AbilityDistributionPreset">Gunbreaker
+          <attribute id="ClassUUID" type="guid" value="e34da442-e52a-40d4-8b7a-da610c37f138" />
+          <attribute id="Charisma" type="int32" value="12" />
+          <attribute id="Constitution" type="int32" value="14" />
+          <attribute id="Dexterity" type="int32" value="13" />
+          <attribute id="Intelligence" type="int32" value="8" />
+          <attribute id="Strength" type="int32" value="15" />
+          <attribute id="Wisdom" type="int32" value="10" />
+          <attribute id="UUID" type="guid" value="504143b2-ff8a-4508-9f57-3ea807d685d0" />
+        </node>
+        <node id="AbilityDistributionPreset">Gunzerker
+          <attribute id="ClassUUID" type="guid" value="c3238546-c831-4742-870b-40622fbf9953" />
+          <attribute id="Charisma" type="int32" value="12" />
+          <attribute id="Constitution" type="int32" value="14" />
+          <attribute id="Dexterity" type="int32" value="13" />
+          <attribute id="Intelligence" type="int32" value="8" />
+          <attribute id="Strength" type="int32" value="15" />
+          <attribute id="Wisdom" type="int32" value="10" />
+          <attribute id="UUID" type="guid" value="2461c8e9-2042-4f60-9b77-ef4564785a4e" />
+        </node>
+        <node id="AbilityDistributionPreset">GunJitsu
+          <attribute id="ClassUUID" type="guid" value="c521515d-a7c2-4404-9d84-4ef5d6a213ff" />
+          <attribute id="Charisma" type="int32" value="12" />
+          <attribute id="Constitution" type="int32" value="13" />
+          <attribute id="Dexterity" type="int32" value="15" />
+          <attribute id="Intelligence" type="int32" value="8" />
+          <attribute id="Strength" type="int32" value="10" />
+          <attribute id="Wisdom" type="int32" value="14" />
+          <attribute id="UUID" type="guid" value="99cbab88-d45a-483b-831b-757bba6f90de" />
+        </node>
+        <node id="AbilityDistributionPreset">GunSaint
+          <attribute id="ClassUUID" type="guid" value="64a7301e-0f62-4f39-97cb-e6e94081113e" />
+          <attribute id="Charisma" type="int32" value="12" />
+          <attribute id="Constitution" type="int32" value="14" />
+          <attribute id="Dexterity" type="int32" value="13" />
+          <attribute id="Intelligence" type="int32" value="8" />
+          <attribute id="Strength" type="int32" value="10" />
+          <attribute id="Wisdom" type="int32" value="15" />
+          <attribute id="UUID" type="guid" value="deaf7d76-496c-499e-add8-2bc4185a9621" />
+        </node>
+        <node id="AbilityDistributionPreset">GunMage
+          <attribute id="ClassUUID" type="guid" value="bd0f05b2-62a6-4d4e-9b5c-b419742e3f80" />
+          <attribute id="Charisma" type="int32" value="12" />
+          <attribute id="Constitution" type="int32" value="14" />
+          <attribute id="Dexterity" type="int32" value="13" />
+          <attribute id="Intelligence" type="int32" value="15" />
+          <attribute id="Strength" type="int32" value="8" />
+          <attribute id="Wisdom" type="int32" value="10" />
+          <attribute id="UUID" type="guid" value="ac33df57-df4f-46ee-8c6c-c2caf2f05790" />
+        </node>
+        <node id="AbilityDistributionPreset">Deadeye
+          <attribute id="Charisma" type="int32" value="10"/>
+          <attribute id="ClassUUID" type="guid" value="4492d68d-484c-4094-a28c-45147fa40f90"/>
+          <attribute id="Constitution" type="int32" value="14"/>
+          <attribute id="Dexterity" type="int32" value="15"/>
+          <attribute id="Intelligence" type="int32" value="13"/>
+          <attribute id="Strength" type="int32" value="8"/>
+          <attribute id="UUID" type="guid" value="6b7cb7c5-a10e-4434-b206-a04d1898a548"/>
+          <attribute id="Wisdom" type="int32" value="12"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

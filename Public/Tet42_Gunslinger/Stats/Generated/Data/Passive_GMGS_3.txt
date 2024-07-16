@@ -1,0 +1,144 @@
+new entry "GMGS_Fear"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_FEAR', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(FEARED,100,2);IF(HasWeaponInMainHand()):ApplyStatus(DISARM,100,1);BreakConcentration(SELF)"
+
+new entry "GMGS_Fireball"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_FIREBALL', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "BreakConcentration(SELF)"
+
+new entry "GMGS_HypnoticPattern"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_HYPNOTICPATTERN', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(HYPNOTIC_PATTERN,100,2);BreakConcentration(SELF)"
+
+new entry "GMGS_LightningBolt"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_LIGHTNINGBOLT', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "BreakConcentration(SELF)"
+
+new entry "GMGS_SleetStorm"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_SLEETSTORM', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(SLEET_STORM,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_Slow"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_SLOW', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(SLOW,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_BC_AStrength"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BC_A_STRENGTH', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CURSE_ABILITY_STRENGTH,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_BC_ADexterity"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BC_A_DEXTERITY', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CURSE_ABILITY_DEXTERITY,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_BC_AConstitution"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BC_A_CONSTITUTION', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CURSE_ABILITY_CONSTITUTION,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_BC_AIntelligence"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BC_A_INTELLIGENCE', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CURSE_ABILITY_INTELLIGENCE,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_BC_AWisdom"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BC_A_WISDOM', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CURSE_ABILITY_WISDOM,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_BC_ACharisma"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BC_A_CHARISMA', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CURSE_ABILITY_CHARISMA,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_BC_Attack"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BC_ATTACK', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CURSE_ATTACK,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_BC_ExtraDamage"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BC_EXTRADAMAGE', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CURSE_EXTRA_DAMAGE, 100, 10);ApplyStatus(SELF, CURSE_EXTRA_DAMAGE_OWNER, 100, 10);BreakConcentration(SELF)"
+
+new entry "GMGS_BC_SkipTurn"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_BC_SKIPTURN', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(CURSE_SKIP_TURN,100,10);BreakConcentration(SELF)"
+
+new entry "GMGS_StinkingCloud"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and IsWeaponAttack() and HasStatus('GMGS_SPELL_STINKINGCLOUD', GetAttackWeapon()) and Enemy()"
+data "StatsFunctors" "ApplyStatus(STINKING_CLOUD,100,10);BreakConcentration(SELF)"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

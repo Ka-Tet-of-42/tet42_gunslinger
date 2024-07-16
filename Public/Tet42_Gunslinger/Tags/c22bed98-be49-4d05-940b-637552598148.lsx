@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Gunslinger" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hb13380c0645b4fba91c9017e3fedaa704c25" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h44d0f5be05ca4494929f1667bed93a58gd36" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="GS" />
+			<attribute id="UUID" type="guid" value="c22bed98-be49-4d05-940b-637552598148" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

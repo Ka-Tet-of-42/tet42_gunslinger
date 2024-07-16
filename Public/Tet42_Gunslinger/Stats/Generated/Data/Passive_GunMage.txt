@@ -1,0 +1,17 @@
+new entry "Mage_MainHandAttack_Override_Passive"
+	type "PassiveData"
+		data "DisplayName" "hb74bec0eg184fg46c4g844eg9da9d12cd629;1"
+		data "Properties" "IsHidden"
+		data "Boosts" "AttackSpellOverride(Gun Mage Main-Hand Attack, Projectile_MainHandAttack)"
+
+new entry "Mage_OffHandAttack_Override_Passive"
+	type "PassiveData"
+		data "DisplayName" "he0396c0dgf591g49dagbf53gcdfb4c077cb6;1"
+		data "Properties" "IsHidden"
+		data "Boosts" "AttackSpellOverride(Gun Mage Off-Hand Attack, Projectile_OffhandAttack)"
+
+new entry "Mage_DW_Override_Passive"
+	type "PassiveData"
+		data "DisplayName" "h79b602f1g0057g482ega597g3872fe21ed1a;1"
+		data "Properties" "IsHidden"
+		data "Boosts" "UnlockSpell(Projectile_GunMage_DW_Attack)"
