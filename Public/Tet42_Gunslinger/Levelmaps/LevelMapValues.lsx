@@ -20,6 +20,16 @@
                     <attribute id="Name" type="FixedString" value="Overkill"/>
                     <attribute id="UUID" type="guid" value="3c2677cb-bda0-43ec-8b05-177ef463080d"/>
                 </node>
+                 <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d6"/>
+                    <attribute id="Level11" type="LSString" value="6d6"/>
+                    <attribute id="Level3" type="LSString" value="2d6"/>
+                    <attribute id="Level5" type="LSString" value="3d6"/>
+                    <attribute id="Level7" type="LSString" value="4d6"/>
+                    <attribute id="Level9" type="LSString" value="5d6"/>
+                    <attribute id="Name" type="FixedString" value="SneakAttack"/>
+                    <attribute id="UUID" type="guid" value="71e8556c-79c4-4b14-a134-474907376f05"/>
+                </node>
                 <node id="LevelMapSeries">
                     <attribute id="Level1" type="LSString" value="1d6"/>
                     <attribute id="Level11" type="LSString" value="6d6"/>

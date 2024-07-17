@@ -1641,7 +1641,7 @@
                     <attribute id="Name" type="LSString" value="Deadeye" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Intelligence);Proficiency(LightArmor);Proficiency(SimpleWeapons);Proficiency(HandCrossbows);Proficiency(HeavyCrossbows);Proficiency(Longswords);Proficiency(Rapiers);Proficiency(Shortswords))" />
-                    <attribute id="PassivesAdded" type="LSString" value="FightingStyle_TwoWeaponFighting;SNIPER_PASSIVE" />
+                    <attribute id="PassivesAdded" type="LSString" value="FightingStyle_TwoWeaponFighting;SNIPER_PASSIVE;SneakAttack_Unlock" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(eff37ce9-c554-4a38-ad91-f7bb11ef6987);AddSpells(d84379aa-8bd1-41e5-a21c-242669151fae);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2)" />
                     <attribute id="TableUUID" type="guid" value="55d2e744-2a3e-4a30-b70b-d33792b43f81" />
                     <attribute id="UUID" type="guid" value="ae828d4d-9fa2-4f03-ae13-709c34a72160" />
@@ -1692,7 +1692,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="AddSpells(f11a3e9c-a02e-4b2c-9158-e60af61ba653)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2,true);AddSpells(f11a3e9c-a02e-4b2c-9158-e60af61ba653)" />
                     <attribute id="TableUUID" type="guid" value="55d2e744-2a3e-4a30-b70b-d33792b43f81" />
                     <attribute id="UUID" type="guid" value="83bc3c72-21c9-40b1-b461-c14b5878ec8c" />
                 </node>
@@ -1701,7 +1701,7 @@
                     <attribute id="Name" type="LSString" value="Deadeye" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="Evasion" />
                     <attribute id="Selectors" type="LSString" value="SelectSpells(4ba80ba6-78f5-4134-beb2-ac716e11ca97,2,1,DeadeyeManeuver)" />
                     <attribute id="TableUUID" type="guid" value="55d2e744-2a3e-4a30-b70b-d33792b43f81" />
                     <attribute id="UUID" type="guid" value="f1e6c353-9b48-4998-a6a4-685888aaa098" />
@@ -1741,7 +1741,7 @@
                     <attribute id="Name" type="LSString" value="Deadeye" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="PassivesAdded" type="LSString" value="GunslingerPrecision_1" />
+                    <attribute id="PassivesAdded" type="LSString" value="GunslingerPrecision_1;ReliableTalent" />
                     <attribute id="Selectors" type="LSString" value="" />
                     <attribute id="TableUUID" type="guid" value="55d2e744-2a3e-4a30-b70b-d33792b43f81" />
                     <attribute id="UUID" type="guid" value="94aa8127-8e81-4498-8056-34f565c542e1" />
