@@ -199,6 +199,10 @@ CanMerge 1
 new subtable "1,1"
 object category "I_BladeRevolver_Scaling",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_Deadeye_Witchhunter_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Deadeye_Witchhunter_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_Sniper_Scaling",1,0,0,0,0,0,0,0
 
 new treasuretable "TT_DIRGECHEST"
@@ -276,6 +280,12 @@ new subtable "1,1"
 object category "I_FlintRifle_Legendary",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_SteamCarbine_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Deadeye_Witchhunter_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BladeRevolver_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sniper_Legendary",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_Danthelon_Trader"
 CanMerge 1
@@ -321,3 +331,9 @@ new subtable "1,1"
 object category "I_FlintRifle_Legendary",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_SteamCarbine_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Deadeye_Witchhunter_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BladeRevolver_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sniper_Legendary",1,0,0,0,0,0,0,0
