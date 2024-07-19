@@ -316,7 +316,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Deadeye Passives" />
-          <attribute id="Spells" type="LSString" value="Target_Deadeye_ShadowStep_Reaction;Target_Deadeye_Riposte;Unlock_Deadeye_Ironsides;Target_Deadeye_SappingAttack;Target_Deadeye_Overkill;Target_Deadeye_Kick;Target_Deadeye_Countershot;Target_Deadeye_Cunning_Reaction;Target_Deadeye_Rebuke" />
+          <attribute id="Spells" type="LSString" value="Target_Deadeye_Recede;Target_Deadeye_Riposte;Unlock_Deadeye_Ironsides;Target_Deadeye_SappingAttack;Target_Deadeye_Overkill;Target_Deadeye_Kick;Target_Deadeye_Countershot;Target_Deadeye_Cunning_Reaction;Target_Deadeye_Rebuke" />
           <attribute id="UUID" type="guid" value="4ba80ba6-78f5-4134-beb2-ac716e11ca97" />
         </node>
         <node id="SpellList">

@@ -199,10 +199,6 @@ CanMerge 1
 new subtable "1,1"
 object category "I_BladeRevolver_Scaling",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_Deadeye_Witchhunter_Scaling",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_Deadeye_Witchhunter_Scaling",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_Sniper_Scaling",1,0,0,0,0,0,0,0
 
 new treasuretable "TT_DIRGECHEST"
