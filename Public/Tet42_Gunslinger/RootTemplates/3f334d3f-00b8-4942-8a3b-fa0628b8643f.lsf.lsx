@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hf5d414e8g79abg4bfcg9b34g5e76273b3bdf" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc832beabdc3c4d7fbd86b8d7e65071d3d0fc" version="3" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="MapKey" type="FixedString" value="3f334d3f-00b8-4942-8a3b-fa0628b8643f" />
+					<attribute id="Name" type="LSString" value="MAG_Colossal_Gunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="81a83529-5bb6-4c72-b1af-6fc8f45c5706" />
+					<attribute id="Stats" type="FixedString" value="MAG_Colossal_Gunblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

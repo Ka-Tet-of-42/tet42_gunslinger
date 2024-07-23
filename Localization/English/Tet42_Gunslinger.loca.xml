@@ -86,7 +86,7 @@
 	<content contentuid="h22dbf160563d41ac908e3351f6bdcd25d6e7" version="1">Armament of Eld</content>
 	<content contentuid="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1">This is the weapon of a master Gunslinger.</content>
 	<content contentuid="h7da7b7263a3e4a0787910df48d1eb2e10664" version="1">Firearm Mini Forge</content>
-	<content contentuid="h23ffe6d7a93b45b8a79ac1f6391bf6184847" version="1">A small forge with tools that will enable you to break down your existing gun to create something new.</content>
+	<content contentuid="h23ffe6d7a93b45b8a79ac1f6391bf6184847" version="1">A small forge with tools that will enable you to combine a Gunsligner template weapon with a looted weapon to create something new.</content>
 	<content contentuid="hcac39e2b23ad458e9f0ad76182e9f9cfg214" version="1">Improved Gunslinger Smite</content>
 	<content contentuid="h9cf3f4afa32649dfb65c79f6f95b66237073" version="1">Your attacks are infused with extra force.&lt;br&gt;&lt;br&gt;Ranged weapon attacks deal an additional [1].</content>
 	<content contentuid="he595677561774d5c994574e9b1b063d62169" version="1">High Velocity Round</content>
@@ -177,7 +177,7 @@
 	<content contentuid="h3e6b7f8b273943709628109a518fd623f773" version="1">Whenever you deal Fire damage, you gain 2 turns of &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Overheat&lt;/LSTag&gt;.</content>
 	<content contentuid="h7dea1de68e164239b9889effc8b4331173eb" version="1">Basic Gunblade Maintenance Kit</content>
 	<content contentuid="hfee9ca37fcd140ea8c21e310f33d168730f4" version="1">Advanced Gunblade Maintenance Kit</content>
-	<content contentuid="h540924627dd348bd9132561f9d6585cf15c8" version="1">Gunblade Mini Forge</content>
+	<content contentuid="h540924627dd348bd9132561f9d6585cf15c8" version="1">Gunslinger Forge</content>
 	<content contentuid="h6d88e8ba819b406fb119aef9ba35865eb781" version="1">Novice Gunblade</content>
 	<content contentuid="ha394c3c8f27d4969a6f001e946ab21d6646b" version="1">Advanced Gunblade</content>
 	<content contentuid="h3e2d3320f02f49c793ffea0219917f480372" version="1">Experienced Gunblade</content>
@@ -186,11 +186,11 @@
 	<content contentuid="h0294feeafebb41dc8d22bc316a56afa230fd" version="1">Gunbreaker Main-Hand Ranged Attack</content>
 	<content contentuid="h9883e8df946543328a0b79443ff2be92gfad" version="1">Main-Hand Firearm Attack</content>
 	<content contentuid="h671f7ddec73b4c5d94990b51613d10cb0g1b" version="1">Gunbreaker Attack of Opportunity</content>
-	<content contentuid="hf2ce0a4884a34d8d8d39d21d49a4e68601f8" version="1">Gunjitsu: The Way of the Gun</content>
-	<content contentuid="h25f139086d1249988cc2a6f951bc8e176f26" version="1">The Gunjitsu practicioner practices subterfuge and specializes in dispatching enemies quickly and quietly.</content>
-	<content contentuid="h1d69e10af6444ad69fcb850315515a46482a" version="1">Main Hand Gunjitsu Attack</content>
-	<content contentuid="h1b85930c17564f7cb9885bdd026b5c026d25" version="1">Off Hand Gunjitsu Attack</content>
-	<content contentuid="hbebc3d26c9d94496b9d555b4509cf754b3e8" version="1">Gunjitsu Dual Attack</content>
+	<content contentuid="hf2ce0a4884a34d8d8d39d21d49a4e68601f8" version="1">Gunjutsu: The Way of the Gun</content>
+	<content contentuid="h25f139086d1249988cc2a6f951bc8e176f26" version="1">The Gunjutsu practicioner practices subterfuge and specializes in dispatching enemies quickly and quietly.</content>
+	<content contentuid="h1d69e10af6444ad69fcb850315515a46482a" version="1">Main Hand Gunjutsu Attack</content>
+	<content contentuid="h1b85930c17564f7cb9885bdd026b5c026d25" version="1">Off Hand Gunjutsu Attack</content>
+	<content contentuid="hbebc3d26c9d94496b9d555b4509cf754b3e8" version="1">Gunjutsu Dual Attack</content>
 	<content contentuid="h81120a54b8d14491b2c3c1ef8dc60c4857d8" version="1">Gunslinger Rifle</content>
 	<content contentuid="h16854fe6976d4d42ad0409ea97a95d14d3a9" version="1">This is my rifle, there are many like it but this one is mine.</content>
 	<content contentuid="hc1ab589e6b4742969c1b47a1879016d3d586" version="1">Dirge</content>
@@ -328,7 +328,7 @@
 	<content contentuid="hb1d6d10d4d514d9fab50aa89a822acdcc260" version="1">Gun Saint Rifle</content>
 	<content contentuid="hacf52c81e2664a4eac70336dd2d4199de9a5" version="1">Dirge Rifle</content>
 	<content contentuid="h44eca3a35f9f47ea8eb1f5853422cec72149" version="1">Gun Mage Revolver</content>
-	<content contentuid="h01c7ca085b134bf3974fa2b6fa50718497g0" version="1">Gunjitsu Kick</content>
+	<content contentuid="h01c7ca085b134bf3974fa2b6fa50718497g0" version="1">Gunjutsu Kick</content>
 	<content contentuid="ha6f9d52694484ab79aad1a41a34095a0ff31" version="1">A quick roundhouse kick to knock your enemy back.</content>
 	<content contentuid="hfa71917f50e24dcfafe6a7c083f1f9ef806f" version="1">Smoke Bomb</content>
 	<content contentuid="h981e685c834747859b0dc0f7a0284a89b7c0" version="1">Drops a smoke bomb at your feet which turns you invisible for 3 turns and makes a small fog cloud to obscure enemy sight for 2 turns.</content>
@@ -483,4 +483,20 @@
     <content contentuid="h093f7b00f62744219d420008266efd022add" version="1">Unlocks both Umbral Shroud and Shadow Step as free actions. After using Shadow Step you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next ranged &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
     <content contentuid="hb3749ed189914eadaf634bef8db025960feb" version="1">Deadeye Disadvantage</content>
     <content contentuid="hd6992c3e39cf4a60966985e974299f727ce7" version="1">Witch Hunter Gunblade</content>
+    <content contentuid="h4eba63f284d74598be1093de3e9d3b822076" version="1">2h Gunblade Template</content>
+    <content contentuid="h9df43eed6cf2407badc3652446e03aad9266" version="1">1h Gunblade Template</content>
+    <content contentuid="hc5375a1a66734a388dacc0403526a39b20e8" version="1">Balduran's Giantslayer Gunblade</content>
+    <content contentuid="hc832beabdc3c4d7fbd86b8d7e65071d3d0fc" version="1">Colossal Gunblade</content>
+    <content contentuid="h7dc35fb141ec4579a54e21e92f60e6106130" version="1">Soulbreaker Gunblade</content>
+    <content contentuid="h2479a27f63e14d3888249b4539d6d19ecga6" version="1">Everburn Gunblade</content>
+    <content contentuid="h67f95ba9663b4ef5b950695d4fa9ad27g1e6" version="1">Sussur Gunblade</content>
+    <content contentuid="h0672850d7ba64817bbc7742e8005a4240f5e" version="1">Gunblade of Justice</content>
+    <content contentuid="h52cd8f0bb1734352a39fa1c511fc4ccff1ee" version="1">Gunblade of Chaos</content>
+    <content contentuid="h7470ffea27ac46fabd0968936dab4dd40cac" version="1">Corpsegrinder</content>
+    <content contentuid="h897602b7e2fb4d458238a71fcb5633d05299" version="1">Ratbat Gunblade</content>
+    <content contentuid="h1db8492c2a524e6999e040a40577163b04dd" version="1">The Skinburster</content>
+    <content contentuid="hac16f1dbcca74d36b0c6831b6f4df75584fc" version="1">Clown Gunblade</content>
+    <content contentuid="h01299b01c8df4b0fb05e72df5e4284b46aa0" version="1">Argument Solver</content>
+    <content contentuid="hf4832785968e4e3ab1943da5511de00c44c9" version="1">Bloodsoaked Gunblade</content>
+    <content contentuid="h04b488b92e1144cc89c304de7f3b5c4d6497" version="1">Reforged Gunblade</content>
 </contentList>

@@ -124,7 +124,7 @@
                     <attribute id="V2" type="float" value="0.2"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="GZ_Gunblade"/>
                     <attribute id="U1" type="float" value="0.7"/>
                     <attribute id="U2" type="float" value="0.8"/>
                     <attribute id="V1" type="float" value="0.1"/>
@@ -141,12 +141,12 @@
                     <attribute id="MapKey" type="FixedString" value=""/>
                     <attribute id="U1" type="float" value="0.9"/>
                     <attribute id="U2" type="float" value="1.0"/>
-                    <attribute id="V1" type="float" value="0.2"/>
-                    <attribute id="V2" type="float" value="0.3"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
                 </node>
 
                 <node id="IconUV">Line 3
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="Item_Gunslinger_Forge"/>
                     <attribute id="U1" type="float" value="0.0"/>
                     <attribute id="U2" type="float" value="0.1"/>
                     <attribute id="V1" type="float" value="0.2"/>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+            	<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="636f32b0-01b3-427f-84e3-6cbd24146e46" />
+					<attribute id="Name" type="LSString" value="OBJ_Gunblade_Forge" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ddf636cb-5d3c-43dc-a33b-fc92df496e95" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="VisualTemplate" type="FixedString" value="3e029158-7a21-3c92-3232-accb83026e7e" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="5c8bdbe9-8d2e-6fe1-e2dc-f223469e3e11" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h540924627dd348bd9132561f9d6585cf15c8" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_Gunslinger_Forge" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Gunblade_Forge" />
+					<attribute id="maxStackAmount" type="int32" value="1" />
+					<attribute id="Description" type="TranslatedString" handle="h23ffe6d7a93b45b8a79ac1f6391bf6184847" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="00000000-0000-0000-0000-000000000000" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.115816 -1.490116E-08 -0.07174292" />
+									<attribute id="Max" type="fvec3" value="0.116 0.2053837 0.06922644" />
+									<attribute id="Radius" type="float" value="0.0666481" />
+									<attribute id="Height" type="float" value="0.134343" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.115816 -1.490116E-08 -0.07174292" />
+									<attribute id="Max" type="fvec3" value="0.116 0.2053837 0.06922644" />
+									<attribute id="Radius" type="float" value="0.0666481" />
+									<attribute id="Height" type="float" value="0.134343" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.057908 -1.490116E-08 -0.03587146" />
+									<attribute id="Max" type="fvec3" value="0.058 0.2053837 0.03461322" />
+									<attribute id="Radius" type="float" value="0.03332405" />
+									<attribute id="Height" type="float" value="0.134343" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="23" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="CombineSlots" type="int8" value="2" />
+											<attribute id="IsBase" type="bool" value="True" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

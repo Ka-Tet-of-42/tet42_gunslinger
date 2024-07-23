@@ -1,3 +1,31 @@
+//2h_Caster_Firearm
+new entry "2h_Caster_Firearm"
+	type "Weapon"
+	using "_BaseWeapon"
+		data "Projectile" "ff93ba9c-124c-454e-ac8c-436c136bcef2"
+		data "Damage" "1d10"
+		data "Damage Type" "Piercing"
+		data "Weapon Group" "MartialRangedWeapon"
+		data "Proficiency Group" "Slings;MartialWeapons"
+		data "Weapon Properties" "Ammunition;Loading;Twohanded"
+		data "Slot" "Ranged Main Weapon"
+		data "PassivesOnEquip" "GS_Ammo_Passive;Drakefire_Noammo_1;MAG_RANGED_CASTER_BOON"
+		data "DefaultBoosts" "WeaponProperty(Magical);IF(Tagged('GUNMAGE',context.Source)):WeaponAttackRollAbilityOverride(Intelligence);IF(Tagged('GUNSAINT',context.Source)):WeaponAttackRollAbilityOverride(Wisdom);IF(Tagged('DIRGE',context.Source)):WeaponAttackRollAbilityOverride(Charisma)"
+
+new entry "2h_Caster_Firearm_Rifle"
+	type "Weapon"
+	using "2h_Caster_Firearm"
+		data "Damage Range" "3000"
+		data "WeaponRange" "1800"
+		data "BoostsOnEquipMainHand" "AttackSpellOverride(Gunslinger Main-Hand Attack,Projectile_MainHandAttack);UnlockSpell(Zone_GS_HV_Round);UnlockSpell(GS_Basic_MobileShooting);UnlockSpell(GS_Basic_SneakAttack);UnlockSpell(Shout_GS_Reload_MainHand);IF(CharacterLevelGreaterThan(5)):UnlockSpell(Shout_GS_Reload_Both)"
+
+new entry "2h_Caster_Firearm_Shotgun"
+	type "Weapon"
+	using "2h_Caster_Firearm"
+		data "Damage Range" "2400"
+		data "WeaponRange" "1200"
+		data "BoostsOnEquipMainHand" "AttackSpellOverride(Shotgun Attack, Projectile_MainHandAttack);UnlockSpell(Shotgun_Slug);UnlockSpell(Shout_GS_Reload_MainHand);IF(CharacterLevelGreaterThan(5)):UnlockSpell(Shout_GS_Reload_Both)"
+
 //Winchester 1894
 new entry "Winchester1894_Base"
 	type "Weapon"

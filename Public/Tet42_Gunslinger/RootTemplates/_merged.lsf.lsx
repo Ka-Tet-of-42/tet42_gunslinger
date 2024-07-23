@@ -1001,6 +1001,70 @@
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="Description" type="TranslatedString" handle="" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="hc6ed14902ad645a18e598b49605d708e7b31" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="8ac2eb82-8563-4657-8c4c-1507573978d7" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="5c25e85b-09f7-41c8-bb2d-6607e9abbac1" />
+					<attribute id="Name" type="LSString" value="GZ_Gunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="406a5b2c-1f47-1927-5e2b-1993ec95fce5" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="_GZ_Gunblade_Base" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="c09191c6-0444-4c6a-9bb2-34ea9d9584a0" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h04b488b92e1144cc89c304de7f3b5c4d6497" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="8ac2eb82-8563-4657-8c4c-1507573978d7" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="bf92f0b9-7848-462a-b994-c1132b99ca3b" />
+					<attribute id="Name" type="LSString" value="GZ_Gunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="406a5b2c-1f47-1927-5e2b-1993ec95fce5" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="c09191c6-0444-4c6a-9bb2-34ea9d9584a0" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc6ed14902ad645a18e598b49605d708e7b31" version="1" />
 					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="ATO_Gunblade_Longsword" />
@@ -1016,7 +1080,7 @@
 					<attribute id="Stats" type="FixedString" value="Tet42_Gunzerker_Greatsword" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="e5878808-a27c-4ae2-9af2-71c27d8b4fd6" />
+					<attribute id="VisualTemplate" type="FixedString" value="0cefb9c2-efe1-46e8-886e-1bf8d6e331be" />
 					<attribute id="WalkThrough" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
 					<children>

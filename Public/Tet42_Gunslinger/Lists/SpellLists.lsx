@@ -121,7 +121,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunzerker Level 1" />
-          <attribute id="Spells" type="LSString" value="Shout_SummonGZChest" />
+          <attribute id="Spells" type="LSString" value="Shout_SummonGZChest;GZ_FlameStrike;GZ_Gunblade_FireBlast;GZ_Gunblade_Projectile_Slug" />
           <attribute id="UUID" type="guid" value="2a0f8819-a1e6-44b3-9f5d-8ba6c391ea1d" />
         </node>
         <node id="SpellList">
@@ -136,7 +136,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Gunbreaker Level 3" />
-          <attribute id="Spells" type="LSString" value="GB_LeapStrike;GB_FlameStrike;GB_Claw;Shout_InspiringPalaver" />
+          <attribute id="Spells" type="LSString" value="GB_LeapStrike;GZ_FlameStrike;GB_Claw;Shout_InspiringPalaver" />
           <attribute id="UUID" type="guid" value="4b4136d2-3d98-4e54-b31c-4f75723c9cf3" />
         </node>
         <node id="SpellList">
@@ -316,12 +316,12 @@
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Deadeye Passives" />
-          <attribute id="Spells" type="LSString" value="Target_Deadeye_Recede;Target_Deadeye_Riposte;Unlock_Deadeye_Ironsides;Target_Deadeye_SappingAttack;Target_Deadeye_Overkill;Target_Deadeye_Kick;Target_Deadeye_Countershot;Target_Deadeye_Cunning_Reaction;Target_Deadeye_Rebuke" />
+          <attribute id="Spells" type="LSString" value="Target_Deadeye_Recede_Reaction;Target_Deadeye_Riposte;Unlock_Deadeye_Ironsides;Target_Deadeye_SappingAttack;Target_Deadeye_Overkill;Target_Deadeye_Kick;Target_Deadeye_Countershot;Target_Deadeye_Cunning_Reaction;Target_Deadeye_Rebuke" />
           <attribute id="UUID" type="guid" value="4ba80ba6-78f5-4134-beb2-ac716e11ca97" />
         </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Deadeye Start" />
-          <attribute id="Spells" type="LSString" value="Shout_SummonDeadeyeChest" />
+          <attribute id="Spells" type="LSString" value="Shout_SummonDeadeyeChest;DEADEYE_BLACK_POWDER" />
           <attribute id="UUID" type="guid" value="eff37ce9-c554-4a38-ad91-f7bb11ef6987" />
         </node>
         <node id="SpellList">

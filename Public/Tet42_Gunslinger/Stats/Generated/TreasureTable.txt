@@ -26,6 +26,10 @@ new treasuretable "TT_Gunbreaker_Tutorial_Chest"
 CanMerge 1
 new subtable "1,1"
 object category "I_Gunbreaker_1h_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Gunblade_Forge",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_1h_Gunblade_Template",1,0,0,0,0,0,0,0
 
 new treasuretable "TT_Deadeye_Tutorial_Chest"
 CanMerge 1
@@ -69,6 +73,10 @@ new treasuretable "TT_Gunzerker_Tutorial_Chest"
 CanMerge 1
 new subtable "1,1"
 object category "I_GZ_Gunblade_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Gunblade_Forge",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_2h_Gunblade_Template",1,0,0,0,0,0,0,0
 
 new treasuretable "TT_Gunjitsu_Tutorial_Chest"
 CanMerge 1
@@ -90,6 +98,10 @@ new treasuretable "TT_GBCHEST"
 CanMerge 1
 new subtable "1,1"
 object category "I_Gunbreaker_1h_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Gunblade_Forge",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_1h_Gunblade_Template",1,0,0,0,0,0,0,0
 
 new treasuretable "TT_GSCHEST"
 CanMerge 1
@@ -186,6 +198,10 @@ new treasuretable "TT_GZCHEST"
 CanMerge 1
 new subtable "1,1"
 object category "I_GZ_Gunblade_Scaling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Gunblade_Forge",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_2h_Gunblade_Template",1,0,0,0,0,0,0,0
 
 new treasuretable "TT_GJCHEST"
 CanMerge 1

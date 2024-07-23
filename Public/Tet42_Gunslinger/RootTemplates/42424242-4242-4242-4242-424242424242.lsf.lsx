@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc7d5ea47gc81eg4937g8f72g551de8954362" version="2" />
+                    <attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bd6618b6-dba6-41f3-bf51-1cac04af2af5" />
+					<attribute id="Name" type="LSString" value="MAG_Githborn_Mindcrusher_Gunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d1082e88-b1e2-479d-913f-1413784d95a1" />
+					<attribute id="Stats" type="FixedString" value="MAG_Githborn_Mindcrusher_Gunblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7b96246c-54ba-43ea-b01d-4e0b20ad35f1" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2479a27f63e14d3888249b4539d6d19ecga6" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+                    <attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="MapKey" type="FixedString" value="697470b5-a6d5-4461-b816-fa46044da1da" />
+					<attribute id="Name" type="LSString" value="MAG_Fire_AlwaysDippedInFire_Gunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="81a83529-5bb6-4c72-b1af-6fc8f45c5706" />
+					<attribute id="Stats" type="FixedString" value="MAG_Fire_AlwaysDippedInFire_Gunblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="MAG_FIRE_ALWAYS_DIPPED_FIRE" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7b96246c-54ba-43ea-b01d-4e0b20ad35f1" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h67f95ba9663b4ef5b950695d4fa9ad27g1e6" version="1" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8ee15ff4-ec12-44c0-b7f2-f93e97c5023c" />
+					<attribute id="Name" type="LSString" value="QUEST_FOR_SussurGunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="74eb44d4-f1a9-c08c-fd8a-4cc98285f2c2" />
+					<attribute id="Stats" type="FixedString" value="FOR_IncompleteMasterwork_SussurGunblade" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h17383768g7570g4082g80a0g075a77c7661b" version="1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7884a137-2365-2bee-c218-e75c88c7e28b" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0783766" />
+									<attribute id="Max" type="fvec3" value="0.21514219 0.047554806 0.35112882" />
+									<attribute id="Min" type="fvec3" value="-0.22098804 -0.008609086 -1.523746" />
+									<attribute id="Radius" type="float" value="0.2330765" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0783766" />
+									<attribute id="Max" type="fvec3" value="0.21514219 0.047554806 0.35112882" />
+									<attribute id="Min" type="fvec3" value="-0.22098804 -0.008609086 -1.523746" />
+									<attribute id="Radius" type="float" value="0.466153" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0783766" />
+									<attribute id="Max" type="fvec3" value="0.21514219 0.047554806 0.35112882" />
+									<attribute id="Min" type="fvec3" value="-0.22098804 -0.008609086 -1.523746" />
+									<attribute id="Radius" type="float" value="0.466153" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="AnubisConfigName" type="FixedString" value="ORI_Gale_MagicItem" />
+					<attribute id="Description" type="TranslatedString" handle="" version="3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0672850d7ba64817bbc7742e8005a4240f5e" version="1" />
+					<attribute id="EquipSound" type="FixedString" value="c0c9b3e7-b3bc-2cbc-9de5-0a148cb098cc" />
+					<attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="28f71fa1-53aa-49ff-9411-54661868d181" />
+					<attribute id="Name" type="LSString" value="UNI_PLA_WPN_GunbladeOfJustice" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a2a58b7-4bd5-44d5-b1fe-8cd7e5b53def" />
+					<attribute id="Race" type="int8" value="-1" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="PLA_WPN_GunbladeOfJustice" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="UnequipSound" type="FixedString" value="f69d46c0-213b-038a-5281-9533b61dca7b" />
+					<attribute id="VisualTemplate" type="FixedString" value="571ec8f3-ea25-56f9-bee7-492ae2483478" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0783766" />
+									<attribute id="Max" type="fvec3" value="0.0793875 0.03607 0.163658" />
+									<attribute id="Min" type="fvec3" value="-0.0793875 -0.015371 -0.804635" />
+									<attribute id="Radius" type="float" value="0.2330765" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0783766" />
+									<attribute id="Max" type="fvec3" value="0.158775 0.03607 0.327316" />
+									<attribute id="Min" type="fvec3" value="-0.158775 -0.015371 -1.60927" />
+									<attribute id="Radius" type="float" value="0.466153" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0783766" />
+									<attribute id="Max" type="fvec3" value="0.158775 0.03607 0.327316" />
+									<attribute id="Min" type="fvec3" value="-0.158775 -0.015371 -1.60927" />
+									<attribute id="Radius" type="float" value="0.466153" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7b96246c-54ba-43ea-b01d-4e0b20ad35f1" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h52cd8f0bb1734352a39fa1c511fc4ccff1ee" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="MapKey" type="FixedString" value="e0fd5bb1-8835-4d0e-9561-c7eff99618bc" />
+					<attribute id="Name" type="LSString" value="MAG_BG_Sarevok_OfChaos_Gunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="2741505a-9d0b-4c9e-adcd-2e6339491e95" />
+					<attribute id="ReadinessFlags" type="uint32" value="8" />
+					<attribute id="Stats" type="FixedString" value="MAG_BG_Sarevok_OfChaos_Gunblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="78f06107-00a3-2bd5-36bf-439cc2465de2" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="MAG_NECROTIC_NECROTIC_WEAPON" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h897602b7e2fb4d458238a71fcb5633d05299" version="2" />
+					<attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7ee0b513-403b-4fe3-a445-b599defa9331" />
+					<attribute id="Name" type="LSString" value="UNI_TWN_WPN_HUM_Nail" />
+					<attribute id="ParentTemplateId" type="FixedString" value="19ce6720-03b6-4d22-bf35-4963b510d1da" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="2340a2e6-be9f-6187-afae-639ffc98d1a7" />
+					<attribute id="Stats" type="FixedString" value="TWN_RatCatcher_Gunblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="fa585803-6ef1-f30c-d9cf-1cfa9d631890" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1db8492c2a524e6999e040a40577163b04dd" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="MapKey" type="FixedString" value="1e092dba-36b8-402c-9a22-ed14f9e71bbf" />
+					<attribute id="Name" type="LSString" value="MAG_ZOC_ForceConduit_Gunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d1019d9d-e5ae-4601-8a63-1b33421926e1" />
+					<attribute id="Stats" type="FixedString" value="MAG_ZOC_ForceConduit_Gunblade" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="" version="0" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7b83c957-576e-a658-e252-e3e872a77dda" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="CoverAmount" type="uint8" value="0" />
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hac16f1dbcca74d36b0c6831b6f4df75584fc" version="2" />
+					<attribute id="EquipmentTypeID" type="guid" value="ab54402e-d3f3-497d-9b81-519b18afb827" />
+					<attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="IsPointerBlocker" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LoopSound" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="80447c04-2872-4a99-a5c7-f5ff6b761893" />
+					<attribute id="Name" type="LSString" value="UNI_WYR_Circus_ClownGunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c3bf6216-310c-4b71-ab7e-9997d8c8d251" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="449d6898-9fa3-6f1f-a04e-6a8762084014" />
+					<attribute id="SoundAttenuation" type="int16" value="-1" />
+					<attribute id="SoundInitEvent" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="UNI_WYR_Circus_ClownGunblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="3b0d4aec-ac0b-f1e6-30e4-47690a72b9fa" />
+					<attribute id="Wadable" type="bool" value="False" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517632512" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0483273" />
+									<attribute id="Max" type="fvec3" value="0.1331074 0.13002807 0.30684102" />
+									<attribute id="Min" type="fvec3" value="-0.13139722 -0.1122203 -0.80997574" />
+									<attribute id="Radius" type="float" value="0.0911205" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0483273" />
+									<attribute id="Max" type="fvec3" value="0.1331074 0.13002807 0.30684102" />
+									<attribute id="Min" type="fvec3" value="-0.13139722 -0.1122203 -0.80997574" />
+									<attribute id="Radius" type="float" value="0.182241" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0483273" />
+									<attribute id="Max" type="fvec3" value="0.1331074 0.13002807 0.30684102" />
+									<attribute id="Min" type="fvec3" value="-0.13139722 -0.1122203 -0.80997574" />
+									<attribute id="Radius" type="float" value="0.182241" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h01299b01c8df4b0fb05e72df5e4284b46aa0" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+                    <attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="MapKey" type="FixedString" value="82dc5661-9863-4fc5-ae6e-bcd514d26045" />
+					<attribute id="Name" type="LSString" value="MAG_Poison_Gunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d64e1a13-18a5-4cdc-ac02-977523435f8f" />
+					<attribute id="Stats" type="FixedString" value="MAG_Poison_Gunblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="f13bf11d-7c67-cc7c-9da5-759923232fdc" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7b96246c-54ba-43ea-b01d-4e0b20ad35f1" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf4832785968e4e3ab1943da5511de00c44c9" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+                    <attribute id="Icon" type="FixedString" value="GZ_Gunblade" />
+					<attribute id="MapKey" type="FixedString" value="1dbad51d-c8d5-4950-8ed2-19c09886a081" />
+					<attribute id="Name" type="LSString" value="MAG_Bloodsoaked_Gunblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="afbfaee7-e2cd-48e7-8c46-d2377c7320e3" />
+					<attribute id="Stats" type="FixedString" value="MAG_Bloodsoaked_Gunblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="42e11447-a999-161c-4d9f-31751a84c251" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
